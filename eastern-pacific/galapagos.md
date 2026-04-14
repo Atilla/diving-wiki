@@ -63,16 +63,22 @@ highlights:
 #### Cousin's Rock
 8–30m. Rocky pinnacle with excellent wall diving. Seahorses (uncommon elsewhere in the archipelago), frogfish, nudibranchs, black coral bushes. Sea lions, Galapagos sharks, occasional hammerheads. The best macro site in the islands — a counterpoint to the pelagic focus elsewhere.
 
+#### Punta Vincente Roca (Isabela NW)
+15–36m. Liveaboard only, northwest point of Isabela. The premier site for mola mola — cold upwelling water (14–17C) brings sunfish into diveable depths. Also: manta rays, Galapagos penguins visible on dives (not just snorkeling), gorgonian gardens. Dramatically lower current than Darwin/Wolf — excellent for underwater photography. Among the coldest diving in the archipelago.
+
+#### Cabo Douglas (Fernandina)
+4–24m. Liveaboard only. The primary site for marine iguana feeding encounters on scuba — iguanas graze on algae in the shallows while sea lions play around divers. Deeper sections: red-lipped batfish on sandy bottoms, torpedo rays, gorgonians. Very cold water (~17C).
+
 ## Marine Life
 
 - **Whale sharks**: Seasonal at Darwin, primarily Jun–Nov with peak Aug–Oct. The Darwin population is remarkable: overwhelmingly adult females, many visibly pregnant, with individuals measured at 10–14m. The site may function as a pre-pupping aggregation — one of very few known globally. Encounter rates during peak season are high (~80–90% of dive days).
 - **Scalloped hammerheads**: Present year-round at Darwin, Wolf, and Gordon Rocks. Schools range from dozens to several hundred. Peak aggregations Jun–Nov when cooler, nutrient-rich water concentrates baitfish. Darwin's Arch regularly produces the largest schools.
-- **Marine iguanas**: The world's only sea-going lizard — entirely unique to Galapagos. Forage on algae in the shallows (1–12m), primarily at Fernandina and Isabela but found across the archipelago. Underwater encounters are surreal: they cling to rocks with powerful claws, grazing methodically while divers watch. Most reliably seen snorkeling at Punta Espinoza (Fernandina) and Cabo Douglas.
+- **Marine iguanas**: The world's only sea-going lizard — entirely unique to Galapagos. Forage on algae in the shallows (1–12m), primarily at Fernandina and Isabela but found across the archipelago. Underwater encounters are surreal: they cling to rocks with powerful claws, grazing methodically while divers watch. Most reliably seen snorkeling at Punta Espinoza (Fernandina). On scuba, Cabo Douglas (Fernandina) is the primary site — shallow dives allow extended observation of iguanas feeding underwater.
 - **Galapagos sharks**: 2–3m reef sharks resident at virtually every site, often in groups of 5–15. Curious and bold — among the least shy requiem sharks divers encounter anywhere.
 - **Sea lions**: Galapagos sea lions interact with divers constantly — barrel rolls, bubble-blowing, mock charges, sustained eye contact. Juvenile sea lions in particular seek out divers for play. Present at nearly every site in the central islands.
 - **Manta rays**: Resident population at Cabo Marshall and occasionally at Darwin/Wolf. Reef mantas (3–4m wingspan) at cleaning stations; occasional giant oceanic mantas (5m+) at the northern islands.
-- **Mola mola (ocean sunfish)**: Most frequent Jun–Nov when cooler water pushes them into diveable depths. Cabo Marshall and Gordon Rocks are the most reliable sites. Encounters often involve multiple individuals — the June 2024 trip logged ~20 sightings across a week.
-- **Other**: Galapagos penguins (the only tropical penguin — seen snorkeling and occasionally on dives at Bartolome and Isabela), green sea turtles (abundant, unafraid — nearly every dive), eagle rays, golden rays, garden eels, red-lipped batfish, and an extraordinary endemic fish assemblage.
+- **Mola mola (ocean sunfish)**: Most frequent Jun–Nov when cooler water pushes them into diveable depths. Punta Vincente Roca, Cabo Marshall, and Gordon Rocks are the most reliable sites. Encounters often involve multiple individuals — the June 2024 trip logged ~20 sightings across a week.
+- **Other**: Galapagos penguins (the only tropical penguin — seen snorkeling and occasionally on dives at Bartolome and Isabela), green sea turtles (abundant, unafraid — nearly every dive; Gordon Rocks can produce extraordinary density, with 100+ on a single dive), eagle rays, golden rays, garden eels, red-lipped batfish, and an extraordinary endemic fish assemblage.
 
 ## Dive Conditions
 
@@ -96,6 +102,8 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 - **The critical distinction**: Darwin and Wolf islands are accessible only by liveaboard — they are 12–16 hours by boat from the central islands. Liveaboard itineraries are 7–8 days. Central islands diving (Gordon Rocks, Cabo Marshall, North Seymour, Cousin's Rock) is available as day trips from Puerto Ayora (Santa Cruz) or Puerto Villamil (Isabela), and can be combined with a land-based Galapagos trip.
 - **Liveaboard operators**: Galapagos Aggressor III, Galapagos Master, Humboldt Explorer, Galapagos Sky, Tiburon Explorer, Calipso. Fleet limited by national park permits — book 6–12 months in advance for peak season.
 - **Cost**: Liveaboards USD $5,000–$8,000+ per person (7–8 days), plus park fees, flights, Quito/Guayaquil hotels. Day-trip diving from Santa Cruz: $150–$250 per two-tank trip. Total all-in for a liveaboard trip: $7,000–$12,000.
+- **San Cristobal for land-based divers**: Dive sites are 10–30 minutes by boat from the harbor, the airport is walkable from town (no expensive Baltra transfer), and excellent free snorkeling at Tijeretas. The best base for budget-conscious divers who cannot afford a liveaboard.
+- **Inter-island transport**: Speedboats between Santa Cruz, Isabela, and San Cristobal run $30–35 each way, ~2 hours. Bumpy ride — seasickness medication recommended.
 - **Experience requirements**: Liveaboards typically require Advanced Open Water + 50 logged dives minimum. For Darwin/Wolf realistically: 100+ dives with current experience strongly recommended. Gordon Rocks: advanced certification and current experience required (operators sometimes refuse divers they judge unready). Central islands sites like North Seymour are accessible to confident Open Water divers.
 - **Recompression chamber**: Located at the Ecuadorian Navy base on Santa Cruz. DAN or equivalent dive insurance essential.
 - **Nitrox**: Available on all major liveaboards (typically $100–$150 extra). Strongly recommended for multi-dive days at depth.
@@ -107,6 +115,9 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 - **Challenges**: Illegal industrial fishing (primarily longline and purse seine fleets from distant-water nations) at reserve boundaries remains the dominant threat. The Ecuadorian Navy and park service conduct regular patrols, and satellite vessel monitoring has improved enforcement, but the sheer scale of the reserve makes comprehensive coverage difficult. Local artisanal fishing within the GMR continues under regulated permits, with ongoing tension between conservation goals and community livelihoods.
 - **Coral-specific concerns**: While the pelagic megafauna is not directly dependent on coral, the reef ecosystems at Darwin and Wolf support cleaning stations, nursery habitat, and food webs that underpin the entire system. Loss of coral cover could cascade unpredictably — another reason the 2026-2035 projections for Darwin warrant urgent attention.
 - **Tourism management**: Total visitor numbers to the Galapagos are capped (though caps have been raised repeatedly — ~270,000 visitors in 2023). Dive operator permits are strictly limited. Park fees fund ranger programs and research.
+
+## Trip Reports
+- Jun 2022 (WAD blog): Month-long land + liveaboard trip. Whale shark at Darwin, 2 mola mola at Punta Vincente Roca, 100+ turtles at Gordon Rocks, hammerhead schools at Darwin/Wolf. Described conditions as "the Olympics of scuba diving" — very strong currents at Darwin/Wolf.
 
 ## Related Destinations
 

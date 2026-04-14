@@ -11,7 +11,7 @@ peak_months: [Mar, Apr, May]
 access: Fly CZM direct or CUN + ferry
 liveaboard: false
 water_temp_range: "25-30C"
-visibility_range: "24-30m+"
+visibility_range: "24-40m"
 experience_level: "Open Water (most sites); Advanced (Punta Sur, cenote caves)"
 last_verified: 2026-04
 bleaching_resilience: low
@@ -33,7 +33,15 @@ highlights:
 
 ## Key Dive Sites
 
-All Cozumel boat dives are drift dives. The marine park operates a **reef rotation closure system** — different reefs close for two months at a time to allow recovery. Check the current schedule before booking.
+All Cozumel boat dives are drift dives. The marine park operates a **reef rotation closure system** — different reefs close for two months at a time to allow recovery:
+- Dec/Jan: Chankana'ab
+- Feb/Mar: Cedral & Francesa
+- Apr/May: Dalila, Palancar Gardens/Horseshoe
+- Jun/Jul: Paraiso
+- Aug/Sep: Colombia & Palancar Caves/Pinnacles
+- Oct/Nov: San Francisco & Santa Rosa
+
+Check the current schedule before booking.
 
 ### Cozumel Reefs
 
@@ -58,6 +66,9 @@ All Cozumel boat dives are drift dives. The marine park operates a **reef rotati
 #### Yucab
 12–18m. Mild current, excellent for photography. Lobster, octopus, schools of grunts, angelfish. Good second dive.
 
+#### Punta Dalila
+15–18m. Sandy bottom with seagrass and scattered coral heads. Known for nurse shark and loggerhead turtle encounters. Closed April–May under the reef rotation schedule.
+
 ### Playa del Carmen
 
 #### Bull Shark Dive
@@ -70,7 +81,7 @@ Playa del Carmen is the gateway to the Yucatan cenote systems — flooded limest
 - **The Pit (El Pit)** — Advanced Open Water. Vertical drop to ~40m between white limestone walls. Dramatic light columns. A halocline at ~30m creates a floating mist effect where fresh and salt water meet.
 - **Cenote Angelita** — Advanced Open Water. A thick hydrogen sulfide layer at depth creates the illusion of an underwater river — often called the counterpart to The Pit ("heaven and hell").
 - **Zapote (Hells Bells)** — Advanced Open Water. Features unique bell-shaped speleothems found nowhere else on Earth.
-- **Kukulkan, Chikin Ha, Dreamgate, Taj Maha** — Various levels. All accessible as day trips from Playa (30–90 minutes by road).
+- **Kukulkan, Chikin Ha, Dreamgate, Taj Maha, Ponderosa** — Various levels. All accessible as day trips from Playa (30–90 minutes by road).
 
 Cenote diving costs $150–235 per person for a two-dive day including transport, guide, tanks, and lights. Entrance fees sometimes extra.
 
@@ -78,7 +89,8 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 - **Eagle rays**: Spotted on almost every dive (multiple ScubaBoard 2025 reports). Peak December–February.
 - **Sea turtles**: Hawksbill, green, and loggerhead — regular sightings at Santa Rosa, Palancar, and most wall sites.
 - **Nurse sharks**: Common throughout, multiple per dive at deeper sites.
-- **Splendid toadfish**: Endemic to Cozumel — found nowhere else on Earth. Nocturnal, most reliably seen on Paradise Reef night dives. Sightings less frequent than historically but still possible with a good guide.
+- **Splendid toadfish**: Endemic to Cozumel — found nowhere else on Earth. Nocturnal, most reliably seen on Paradise Reef night dives, also sighted during daytime at Santa Rosa Wall. Sightings less frequent than historically but still possible with a good guide.
+- **Hammerhead sharks**: Rare but documented — a WAD report recorded a sighting at Cedral Pass in November.
 - **Bull sharks**: Playa del Carmen only, November–March. Pregnant females, no feeding.
 - **Moray eels**: Spotted, green, and goldentail morays common in reef crevices.
 - **Reef fish**: Angelfish (gray, queen), chromis, grunts, snappers, triggerfish. Schools of Creole wrasse. Fish populations recovering due to marine park enforcement.
@@ -86,7 +98,7 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 - **Seahorses**: Reported at Paradise Reef but inconsistent.
 
 ## Dive Conditions
-- **Visibility**: 24–30m+ year-round on the west coast. Crystal clear is the norm. Sargassum accumulates on the east coast but does not affect west-coast dive sites or visibility.
+- **Visibility**: 24–40m year-round on the west coast. Crystal clear is the norm. Sargassum accumulates on the east coast but does not affect west-coast dive sites or visibility.
 - **Temperature**: 25–26C December–February, 27–28C March–May, 29–30C June–September. 3mm sufficient; 5mm for winter or multiple daily dives.
 - **Currents**: All Cozumel boat dives are drift dives. Mildest: Palancar Gardens, Columbia Shallow, Yucab. Strongest: Punta Sur, Santa Rosa Wall, Paso del Cedral. Current strength varies day to day — the same site can be gentle or ripping on different visits. Cenotes have no current.
 - **Experience level**: Open Water for most Cozumel reef sites and cenote cavern dives. Advanced Open Water for Punta Sur/Devil's Throat, bull shark dives, and cenote cave dives (The Pit, Angelita). Drift diving experience helpful but not required — guides brief thoroughly.
@@ -110,7 +122,7 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 - **Recompression chamber**: Cozumel Hyperbaric Medicine Center (SSSM) on the island. DAN insurance recommended.
 
 ## Conservation
-- **Cozumel Reefs National Marine Park** (CONANP): Covers the western reef system. Maximum 8:1 diver-to-guide ratio. All guides must complete Sustainable Marine Recreation (SMR) certification — over 7,000 trained. Reef rotation closure system since 2020. Non-biodegradable sunscreen banned. Rash guards required. Only authorised operators permitted.
+- **Cozumel Reefs National Marine Park** (CONANP): Covers the western reef system. Maximum 8:1 diver-to-guide ratio. All guides must complete Sustainable Marine Recreation (SMR) certification — over 7,000 trained. Reef rotation closure system since 2020. **All sunscreen prohibited** (not just non-biodegradable) — UV-protective clothing recommended instead. Rash guards required. Only authorised operators permitted.
 - **CCRRP (Cozumel Coral Reef Restoration Program)**: Over 10,000 corals planted at Villa Blanca Reef. Antibiotic paste treatment for Stony Coral Tissue Loss Disease (~50% efficacy). Ex-situ treated fragments showing 93% survivorship with no reinfection for 352 days (Frontiers in Marine Science, 2026). Heat-resistant genotypes being identified for future planting.
 - **Fourth cruise pier blocked**: A proposal to build a pier directly on Villa Blanca Reef (the main restoration site) was rejected by the Cozumel mayor in July 2025 after major opposition. Under investigation.
 - **Pressure**: ~2,000 divers daily. 4.6 million cruise ship passengers in 2024. Cozumel receives more cruise traffic than almost anywhere in the Caribbean. The tension between tourism revenue and reef survival is the island's defining conservation challenge.

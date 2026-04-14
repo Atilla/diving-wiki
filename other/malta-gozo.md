@@ -39,11 +39,11 @@ highlights:
 #### Um El Faroud
 18–36m. Libyan oil tanker (115m), scuttled 1998 as artificial reef after a drydock explosion. Upright, largely intact — one of the largest diveable wrecks in the Mediterranean. Hull cracked amidships in a storm (~2005), splitting into two sections, but both remain upright and diveable. Bridge and internal areas penetrable. Schools of amberjack and barracuda. The flagship Malta wreck. Advanced OW for upper sections; full penetration is technical.
 
-#### P-31
-18–30m. East German-built Kondor I-class minesweeper/patrol boat (52m), scuttled 2009. Upright, intact, excellent condition (recent scuttling). Good penetration through corridors and compartments. Mast and bridge photogenic. Combined with the adjacent Rozi for a two-wreck dive at Cirkewwa. Accessible to OW/AOW divers.
+#### P-29
+18–36m. East German-built Kondor I-class patrol boat (52m), sold by German Navy 1997, scuttled 2005 at Cirkewwa. Upright, intact, good penetration through corridors and compartments. Mast and bridge photogenic. Combined with the adjacent Rozi for a two-wreck dive. Accessible to OW/AOW divers. (Note: often confused with its sister ship P-31, which sits at 18m off Comino.)
 
 #### Rozi Tugboat
-33–36m. Tugboat (~40m), scuttled 1992. Intact, upright, wheelhouse penetrable. Covered in marine growth. One of Malta's most-dived wrecks. Combined with P-31 at Cirkewwa.
+33–36m. Tugboat (~40m), scuttled 1992. Intact, upright, wheelhouse penetrable. Covered in marine growth. One of Malta's most-dived wrecks. Combined with P-29 at Cirkewwa.
 
 #### HMS Maori
 14–16m. Tribal-class Royal Navy destroyer (~115m), sunk by Luftwaffe bombing in Grand Harbour on February 12, 1942. Largely broken up — hull sections, bow area, scattered debris (partially salvaged post-war). Genuine WWII combat casualty. Very accessible shallow dive. Historical significance is the draw.
@@ -87,10 +87,16 @@ A natural limestone chimney (~10m diameter at surface) dropping to ~15m where it
 A shallow inland lagoon connected to the open sea through an ~80m tunnel in the cliff. Divers swim through the tunnel and emerge on the outer wall. Wide enough for comfortable passage (not restrictive). Unique, atmospheric experience.
 
 #### Azure Window collapse site
-The iconic limestone arch collapsed March 8, 2017. The rubble field (5–20m) is being colonized by marine life and evolving into a significant dive site. Accessed from Blue Hole or Inland Sea exits.
+The iconic limestone arch collapsed March 8, 2017. The rubble field (5–20m) is being colonized by marine life and has become a nudibranch hotspot, evolving into a significant dive site in its own right. Accessed from Blue Hole or Inland Sea exits.
 
 ### Other Gozo sites
-Billinghurst Cave (30–40m, true cave — cave cert required), Cathedral Cave (large cavern with light effects), Reqqa Point (wall to 50m+), Mgarr ix-Xini (easy entry, seahorses reported).
+Billinghurst Cave (30–40m, true cave — cave cert required), Cathedral Cave (large cavern with light effects), Reqqa Point (wall to 50m+), Mgarr ix-Xini (easy entry, seahorses reported, flying gurnards, cuttlefish).
+
+#### Double Arch (Xwejni)
+30–36m. Two overlapping natural arches — rare geological formation. Orange sponges and anemones on ceiling, red scorpionfish. Advanced navigation required; 15-min surface swim to reach entry point.
+
+#### Xlendi Tunnel
+5–11m. Easy tunnel dive with dramatic light effects in morning. Nudibranch hotspot. Ideal backup site or training dive.
 
 ## Marine Life
 
@@ -101,6 +107,8 @@ Billinghurst Cave (30–40m, true cave — cave cert required), Cathedral Cave (
 - **Moray eels**: Mediterranean moray in holes and crevices throughout.
 - **Seahorses**: Short-snouted seahorses in Posidonia beds and sheltered bays. Not guaranteed but regularly reported.
 - **Nudibranchs**: Excellent variety of Mediterranean species for macro photography.
+- **John dory**: Uncommon but prized sighting — recorded at Um El Faroud during a safety stop (WAD, May 2025).
+- **Flying gurnard**: Relatively common around Gozo, particularly at Mgarr ix-Xini.
 - **Eagle rays, stingrays**: Seasonal visitors, more common spring/summer.
 - **Posidonia oceanica meadows**: Significant seagrass beds, particularly along northeast coast and around Comino. Protected under EU Habitats Directive.
 - **Honestly**: Marine life is Mediterranean-grade. Divers expecting tropical abundance or pelagic encounters will be disappointed. The draw is wrecks, geological formations, and visibility — not biology.

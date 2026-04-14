@@ -31,7 +31,7 @@ highlights:
 - **Important structural concern**: a major coast-to-coast survey (99 nearshore reefs + 16 offshore pinnacles, published Jan 2026) found Thai reefs undergoing "widespread homogenization" — branching Acropora declining, replaced by boulder-forming Porites. Reefs are recovering in cover but becoming simpler ecosystems.
 - Shallower hard coral gardens (<15m) hit hardest. Deeper pinnacles and sites with upwelling fared better.
 - **Richelieu Rock and Burma Banks** are pelagic-focused and remain excellent.
-- **New regulations (April 2025)**: 2-meter distance rule above coral, group size caps, camera certification requirements, ban on touching marine life/feeding fish. Similan visitor cap 3,850/day.
+- **New regulations (April 2025)**: 2-meter distance rule above coral, group size caps, camera certification requirements, ban on touching marine life/feeding fish. Similan visitor cap 3,325/day (reduced from previous 3,850).
 - **Leopard shark rewilding**: StAR Project launched May 2025 — first-ever in Thailand. Seven sharks released, wild population estimated at only 57-172 individuals. Shark Point remains the best site for encounters.
 
 ## Key Dive Sites
@@ -41,6 +41,9 @@ highlights:
 #### East of Eden (#7)
 
 12-30m. Massive boulder-and-coral-garden terrain on the sheltered east side. Signature: huge table corals, sea fans, turtles resting on bommies, octopus, lionfish. Best all-round reef dive in the Similans.
+
+#### West of Eden (#7)
+10–30m. West-side exposure of Island 7 — granite boulders with different marine life from the sheltered east side. Stronger currents, more exposed.
 
 #### Elephant Head Rock
 
@@ -94,6 +97,11 @@ Also: leopard sharks on sand at depth, whitetip reef sharks, large Napoleon wras
 
 Fringing reefs and granite boulders. Torinla Rock (12-30m): current-swept pinnacle with soft corals, schooling fish, occasional manta. Less dived than the Similans — healthier shallow hard coral in sheltered bays.
 
+### Koh Tachai
+
+#### Koh Tachai Pinnacle
+10–30m. Pyramid-shaped rocks covered in large colourful gorgonians. Schools of batfish, barracuda, and emperor fish — WAD (Jan 2024) described this as leaving "the biggest impression." Good night diving with nudibranchs. Note: Koh Tachai island closed to land visitors since 2016 due to over-tourism, but underwater sites remain diveable.
+
 ### Burma Banks
 
 A chain of submerged seamounts (Silvertip Bank, Rainbow Reef, Roe Bank, Big Bank) 60+ km offshore in open Andaman Sea. Tops at 15-25m, walls dropping past recreational limits.
@@ -116,9 +124,11 @@ Signature: silvertip sharks (the namesake), nurse sharks, grey reef sharks, larg
 | **Temperature** | 27-30C surface, 25-27C at depth | 27-29C | 26-28C |
 | **Currents** | Mild-moderate (east); strong (west exposures) | Moderate-strong; can shift mid-dive | Mild-moderate |
 
+**Note**: Oct–Dec early-season water temperatures can drop to 21C due to cold thermoclines from depth.
+
 ## Season
 
-November through April/May. Parks close May 15 to October 31. Best conditions and marine life convergence: **February-April**.
+November through April/May. Parks close mid-May to mid-October (exact dates vary slightly by year; reportedly May 16 to Oct 14 in recent seasons). Best conditions and marine life convergence: **February-April**.
 
 ## Practical Info
 

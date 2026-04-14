@@ -35,11 +35,20 @@ highlights:
 - **Not a liveaboard destination** but essential reference for any serious diver.
 
 ## Key Dive Sites
-- Multiple sites along the strait's black sand slopes and rubble fields, each known for specific critter populations.
-- Guides are the key differentiator — they know exactly which rubble patch holds which species and update daily.
+
+#### Jahir
+5–20m. Premier night dive site. Flamboyant cuttlefish, long-arm octopus, juvenile coconut octopus, stargazer. Black sand slope.
+
+#### Nudi Falls
+5–19m. Shallow wall and slope. Pontoh's pygmy seahorse, Lembeh seadragon, yellow giant frogfish, diverse nudibranchs. The most popular site — can be congested despite boat regulation system.
+
+#### Tanjung Tebal
+5–24m. Lembeh Island shore entry. Sandy slope with flamboyant cuttlefish eggs (in season), common seahorse, nudibranchs.
+
+Guides are the key differentiator across all sites — they know exactly which rubble patch holds which species and update daily.
 
 ## Marine Life
-- **Signature critters**: Hairy frogfish, mimic octopus, blue-ringed octopus, flamboyant cuttlefish, wonderpus, rhinopias, Banggai cardinalfish, Bobbit worms, extraordinary nudibranch diversity. All reliably sighted.
+- **Signature critters**: Hairy frogfish, mimic octopus, blue-ringed octopus, flamboyant cuttlefish, wonderpus, rhinopias, Banggai cardinalfish, Bobbit worms, extraordinary nudibranch diversity. All reliably sighted. Lembeh seadragon at Nudi Falls — a signature Lembeh species.
 - The black sand muck habitat is inherently resilient to bleaching. Invertebrate and critter populations appear stable through 2025 reporting.
 
 ## Dive Conditions
@@ -56,10 +65,13 @@ highlights:
 - **Wetsuit:** 3mm sufficient year-round; rashguard in warm months.
 
 ## Practical Info
-- **Access**: Via Manado (Sam Ratulangi Airport), 1.5–2 hour drive to Bitung, short boat crossing.
+- **Access**: Via Manado (Sam Ratulangi Airport), drive to Bitung (~30 min via toll road, or 1.5–2 hours on the old road), short boat crossing.
 - **Operators**: Lembeh Resort, NAD Lembeh, Hairball Resort, Two Fish Divers, Kungkungan Bay Resort.
 - **Costs**: Resort + diving packages $200–400+ per person/day. No longer a budget destination.
 - **Recompression chamber**: Manado (near Bunaken) has a chamber.
+
+## Trip Reports
+- Jun 2025 (WAD blog): 2-day visit. Flamboyant cuttlefish found within 20 minutes on first night dive at Jahir. "Lembeh's muck wasn't as murky or dirty as I was told."
 
 ## Related Destinations
 

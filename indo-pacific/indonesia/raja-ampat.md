@@ -48,6 +48,31 @@ highlights:
 #### Sardine Reef
 5–25m. Named for resident clouds of silversides and sardines. Reef sharks, sweetlips, batfish, barracuda. Moderate currents.
 
+#### Chicken Reef
+5–25m. Sand channels and coral pinnacles in the strait. Oceanic manta reported on a Nov 2025 visit. Current-dependent — best dived at slack or gentle flow.
+
+#### Friwen Wall
+5–20m. Intimate reef on Gam Island's west side. Macro-focused: flabellinas, blennies, orange gorgonians. Less current than the main strait sites.
+
+#### Sawandarek Jetty & Yenbuba Jetty (Mansuar)
+1–15m. Jetty dives with sweetlips, snappers, wobbegong sharks under the platforms. Beginner-friendly and excellent for night dives.
+
+### Arborek
+
+#### Manta Ridge
+10–20m. Advanced manta cleaning station, more exposed than Manta Sandy. Reef mantas visit during the Oct–Apr season; conditions can be challenging with stronger currents.
+
+#### Arborek Jetty
+1–10m. Night dive highlight: walking carpet sharks in less than 2m of water, basket stars, coconut octopus. One of Raja Ampat's most accessible signature encounters.
+
+### West Gam / Yangeffo
+
+#### Mioskon
+5–25m. Blacktip reef sharks, wobbegong sharks under overhangs, relaxed currents. Good all-round site.
+
+#### Mayhem
+10–30m. Unpredictable currents, barracuda schools, nurse sharks, reef mantas. Advanced — conditions change rapidly.
+
 ### Fam Islands & Penemu
 
 #### Melissa's Garden
@@ -93,7 +118,11 @@ highlights:
 - **Access**: Fly to Sorong (SOQ) via Jakarta or Makassar. Garuda, Lion Air, and Batik Air operate connections. Some operators include a hotel night in Sorong.
 - **Liveaboard operators**: Damai, Dewi Nusantara, Indo Siren, Coralia, Samambaia, Gaia Love, Papua Explorer (mid-range), plus several Indonesian phinisi-style vessels.
 - **Itineraries**: Northern routes (Dampier Strait, Wayag, Kawe), central routes (Dampier Strait, Fam/Penemu), southern routes (Misool marine reserve). 10–12 night trips can combine north and south; 7-night trips typically cover one zone.
-- **Marine park entry fee**: ~IDR 1,000,000 for foreign visitors (~USD 60–65), valid one year. Verify current amount before travel.
+- **Marine park entry fee**: ~IDR 1,700,000 for international divers (~USD 87) as of 2026, including marine park permit and visitor ticket. Verify current amount before travel.
+- **Access routing**: Bali → Manado → Sorong reportedly more reliable than via Makassar (Lion Air). Trans Nusa preferred for the Manado–Sorong leg.
+- **Local rules**: Sunday is a no-dive day (Church Day in Papua). Sawandarek Village observes Saturday (Adventist). Gloves are prohibited in the water. Wayag is temporarily restricted due to local protests related to mining projects — verify status before booking.
+- **Best for first-timers**: One week liveaboard (Dampier/Misool) + one week land-based on Arborek provides a well-rounded introduction.
+- **Manta season note**: February reportedly now a strong manta month, in addition to the traditional Nov–Mar peak.
 - **Recompression chamber**: Nearest in Manado or Makassar — both multi-hour flights from Sorong. DAN insurance strongly recommended.
 
 ## Conservation
@@ -102,6 +131,9 @@ highlights:
 - **SEA People**: Coral reef monitoring and restoration using reef stars (metal structures seeded with coral fragments).
 - **Patrol enforcement**: Community-based patrol system has expanded significantly. Blast fishing and cyanide fishing dramatically reduced in patrolled zones, though some remote areas remain vulnerable.
 - **Shark sanctuary**: Shark fishing banned throughout Raja Ampat since 2012. Commercial fishing banned within core MPA zones. Traditional community fishing permitted in designated zones with gear restrictions.
+
+## Trip Reports
+- Nov-Dec 2025 (WAD blog): 12-day trip, liveaboard + Arborek land-based. Oceanic manta at Chicken Reef, mobula rays at Cape Kri at slack tide, walking carpet shark at Arborek jetty night dive. Wobbegong sharks ubiquitous across all areas. "Raja Ampat is not the ultimate macro destination" but unmatched for fish diversity and reef structure.
 
 ## Related Destinations
 

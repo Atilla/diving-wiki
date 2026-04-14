@@ -72,7 +72,7 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 - **Manta rays**: Present at both Fakarava and Rangiroa passes. More reliable at Rangiroa.
 - **Dolphins**: Bottlenose dolphins at Tiputa Pass are unusually interactive — surfing currents alongside divers.
 - **Napoleon wrasse**: Large individuals at multiple passes.
-- **Grouper spawning**: Fakarava South Pass, Jun–Jul — thousands of marbled groupers aggregate to spawn, attracting peak shark numbers. A globally significant marine event.
+- **Grouper spawning**: Fakarava South Pass, mid-June to early July — thousands of marbled groupers aggregate to spawn, attracting peak shark numbers. A globally significant marine event.
 
 ## Dive Conditions
 
@@ -87,6 +87,8 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 ## Practical Info
 
 - **Access**: International flights to Tahiti (Papeete, PPT) — direct from Los Angeles, Auckland, Tokyo, Paris. Domestic Air Tahiti flights to Fakarava (FAV, ~1 hour) and Rangiroa (RGI, ~1 hour). Internal flights are expensive ($200–500+ round trip per segment).
+- **Dive gear on flights**: Air Tahiti Nui allows a free 23kg sports equipment bag (for scuba gear) in addition to standard luggage — significant for traveling divers.
+- **Fakarava South Pass accommodation**: Tetamanu Diving Village is the only dive center right next to the South Pass, providing first-in-the-water advantage. Reaching it from the airport requires ~2 hours (30 min drive + 70 min boat). Basic bungalows, all meals included.
 - **Liveaboard operators**: **French Polynesia Master** (Master Liveaboards) covers extended Tuamotus including lesser-visited atolls. **Aqua Tiki** catamaran liveaboard. Typical 7–10 night trips, USD $5,000–7,000+.
 - **Land-based**: Fakarava — several small pensions near the South Pass (Tetamanu Village, Raimiti) and dive centers (Dive Spirit Fakarava, Top Dive). Rangiroa — multiple operators (The Six Passengers, Rangiroa Diving Center, Top Dive). Day-boat diving to the passes is the standard format.
 - **Costs**: Land-based diving USD $80–120/dive. Liveaboard premium. French Polynesia is expensive across the board — accommodation, food, internal transport.
@@ -96,7 +98,7 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 ## Conservation
 
 - **Fakarava UNESCO Biosphere Reserve** (2006): Multiple zoning levels. The South Pass is within a designated conservation zone. Enforcement largely effective, though illegal fishing at reef edges occurs.
-- The grouper spawning aggregation at Fakarava South Pass is one of the most studied in the Pacific — research by CRIOBE (Centre de Recherches Insulaires et Observatoire de l'Environnement) has documented the ecological significance.
+- The grouper spawning aggregation at Fakarava South Pass is one of the most studied in the Pacific — research by CRIOBE (Centre de Recherches Insulaires et Observatoire de l'Environnement) has documented the ecological significance. French Polynesia officially banned all shark feeding and baiting in 2017, though a 2019 WAD report noted some operators near Tahiti still conducting feeding despite the ban.
 - Shark populations in the Tuamotus are among the healthiest in the Indo-Pacific, likely due to low human pressure, healthy reef structure, and traditional Polynesian marine stewardship.
 
 ## Related Destinations
