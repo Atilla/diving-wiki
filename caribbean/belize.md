@@ -91,5 +91,6 @@ Described as **"one of the best developed and healthiest reefs in the Caribbean.
 ## Related Destinations
 
 - [Roatan](roatan.md) — nearest Caribbean neighbor; Mesoamerican Barrier Reef
+- [Cozumel & Playa del Carmen](cozumel-playa-del-carmen.md) — Mesoamerican Barrier Reef neighbor; drift diving + cenotes
 - [Turks & Caicos](turks-caicos.md) — comparable wall diving
 - [Bonaire / Saba / Curacao](bonaire-saba-curacao.md) — Caribbean alternative below hurricane belt

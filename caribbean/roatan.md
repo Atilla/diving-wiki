@@ -84,5 +84,6 @@ highlights:
 ## Related Destinations
 
 - [Belize](belize.md) — Mesoamerican Barrier Reef neighbor
+- [Cozumel & Playa del Carmen](cozumel-playa-del-carmen.md) — Mesoamerican Barrier Reef neighbor; drift diving + cenotes
 - [Bonaire / Saba / Curacao](bonaire-saba-curacao.md) — Caribbean shore diving alternative
 - [Turks & Caicos](turks-caicos.md) — comparable wall diving

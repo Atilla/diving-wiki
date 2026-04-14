@@ -73,6 +73,7 @@ Quick reference:
 - [Bahamas](caribbean/bahamas.md) — Tiger Beach, Bimini
 - [Turks & Caicos](caribbean/turks-caicos.md) — Wall diving + whales
 - [Roatan](caribbean/roatan.md) — Bay Islands, Honduras
+- [Cozumel & Playa del Carmen](caribbean/cozumel-playa-del-carmen.md) — Drift diving, cenotes, bull sharks
 - [Fernando de Noronha](caribbean/fernando-de-noronha.md) — Spinner dolphins, Brazil
 
 ### Eastern Pacific
