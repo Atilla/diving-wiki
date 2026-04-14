@@ -27,7 +27,7 @@ highlights:
 ## Status
 
 - The north was historically *completely spared* from bleaching (2012, 2020, 2023 events). In 2024, bleaching reached the north for the **first time ever** — but at dramatically lower severity: ~5% in the Gulf of Aqaba (Israeli waters study), 9.7-18.4% in northern Egyptian sectors, vs 56%+ in the south (28% was the overall Egyptian Red Sea average).
-- Gulf of Aqaba "supercorals" survived 30 Degree Heating Weeks (bleaching risk starts at 4 DHW) with barely 5% bleaching. These corals have exceptional thermal tolerance.
+- Gulf of Aqaba "supercorals" survived 30 Degree Heating Weeks (bleaching risk starts at 4 Degree Heating Weeks) with barely 5% bleaching. These corals have exceptional thermal tolerance.
 - **By late 2025, northern reefs have largely recovered** (confirmed by Egypt Ministry of Environment monitoring, Sept 2025).
 - Ras Mohammed: 60-80% coral cover, among the highest in the Gulf of Aqaba. Walls glow with anthias, soft corals, sponges.
 - **Best season:** October-May (avoids summer heat stress peak).
@@ -104,7 +104,7 @@ Whitetip reef sharks at Ras Mohammed and Tiran. Green and hawksbill turtles wide
 
 ## Related Destinations
 
-- [BDE Circuit](bde-circuit.md) — offshore extension of northern Egypt liveaboard routes
+- [Brothers/Daedalus/Elphinstone](bde-circuit.md) — offshore extension of northern Egypt liveaboard routes
 - [Southern Egypt](southern-egypt.md) — continuation south; significantly more degraded
 - [Saudi Arabia](saudi-arabia.md) — opposite coast; similar latitude, comparable reef health
 - [Djibouti](djibouti.md) — Red Sea's other healthy reef system; upwelling-protected

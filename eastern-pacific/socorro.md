@@ -100,4 +100,4 @@ Jan–Mar considered overall peak for diversity of encounters despite cooler wat
 - [Galapagos](galapagos.md) — comparable Eastern Pacific megafauna destination
 - [Cocos Island](cocos-island.md) — similar pelagic-focused liveaboard diving
 - [Malpelo](malpelo.md) — similar remote pelagic diving; fewer mantas, more hammerheads
-- [BDE Circuit](../red-sea/bde-circuit.md) — comparable pelagic shark experience in a different ocean
+- [Brothers/Daedalus/Elphinstone](../red-sea/bde-circuit.md) — comparable pelagic shark experience in a different ocean

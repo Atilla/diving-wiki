@@ -27,8 +27,8 @@ highlights:
 ## Status
 **SHALLOW HARD CORAL SEVERELY HIT — but wall diving, soft coral, and marine life hold up**
 
-- Record 12.8 DHW in 2023. Back-to-back bleaching in 2023 and 2024 (2024 described as "worst bleaching event to date" for the Mesoamerican Reef, ~40% of corals severely affected).
-- SCTLD present at ~95% of monitored sites since arrival in Sept 2020. Spread averaged 155 m/day around the islands. 28 stony coral species affected — brain corals, maze corals, and pillar coral (virtually all dead) hit hardest. Roatan Marine Park has tagged and treated 1,373 corals with amoxicillin paste (50-65% efficacy), but treatment is not scalable to the full reef system.
+- Record 12.8 Degree Heating Weeks (DHW) in 2023. Back-to-back bleaching in 2023 and 2024 (2024 described as "worst bleaching event to date" for the Mesoamerican Reef, ~40% of corals severely affected).
+- Stony Coral Tissue Loss Disease (SCTLD) present at ~95% of monitored sites since arrival in Sept 2020. Spread averaged 155 m/day around the islands. 28 stony coral species affected — brain corals, maze corals, and pillar coral (virtually all dead) hit hardest. Roatan Marine Park has tagged and treated 1,373 corals with amoxicillin paste (50-65% efficacy), but treatment is not scalable to the full reef system.
 - **Cordelia Banks** — once the last major healthy staghorn coral patch in the Mesoamerican region (historically 70%+ total live coral cover per AGRRA/Reef Builders surveys) — severely degraded by early 2024. Now a protected research/restoration site. No recovery documented yet, but staghorn fragments show "remarkable resilience and vitality" for use in restoration. *[Note: specific pre/post cover percentages for staghorn alone could not be independently verified; the direction of severe decline is well-documented.]*
 
 ### The critical shallow-vs-deep distinction

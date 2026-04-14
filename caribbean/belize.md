@@ -63,7 +63,7 @@ Described as **"one of the best developed and healthiest reefs in the Caribbean.
 - **Belize Blue Bond**: $364 million debt-for-nature swap funding marine conservation, targeting 20% full reef protection (up from 7%).
 - Fish populations rebounding significantly — parrotfish moratorium and enforcement working. Macroalgae declining.
 - Fragments of Hope restoration: outplanted Elkhorn corals showed only **4% mortality vs 31% in natural stands** — resilient genotypes being selected for future planting.
-- SCTLD being treated with amoxicillin-based interventions proving effective.
+- Stony Coral Tissue Loss Disease (SCTLD) being treated with amoxicillin-based interventions proving effective.
 - Super Reefs program actively identifying heat-resistant genotypes for guided protection.
 
 - Blue Hole (geological feature) unaffected by bleaching. Whale sharks at Gladden Spit (seasonal).

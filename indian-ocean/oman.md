@@ -27,7 +27,7 @@ highlights:
 ## Status
 **HIDDEN GEM — naturally protected; upwelling held during 2024 — but NOT VIABLE as of April 2026 due to Iran-US conflict**
 
-- Arabian Sea monsoon upwelling (khareef, Jun-Sep) drops SSTs from ~28C to 18-22C along the Dhofar coast — one of the most intense upwelling systems in the world. **This protection appears to have held during the 2023-2024 global bleaching event.** Daymaniyat Islands and Muscat-area reefs escaped mass bleaching; DHW remained at or below Alert Level 1.
+- Arabian Sea monsoon upwelling (khareef, Jun-Sep) drops sea surface temperatures (SSTs) from ~28C to 18-22C along the Dhofar coast — one of the most intense upwelling systems in the world. **This protection appears to have held during the 2023-2024 global bleaching event.** Daymaniyat Islands and Muscat-area reefs escaped mass bleaching; Degree Heating Weeks (DHW) remained at or below Alert Level 1.
 
 ## Key Dive Sites
 

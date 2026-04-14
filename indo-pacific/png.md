@@ -64,7 +64,7 @@ Spinner dolphin pods (often 50-200 animals) are regularly encountered on surface
 
 ### Milne Bay
 
-The southeastern tip of mainland PNG. The draw is diversity of diving styles — walls, muck, and coral gardens within one trip.
+The southeastern tip of mainland Papua New Guinea. The draw is diversity of diving styles — walls, muck, and coral gardens within one trip.
 
 #### Observation Point
 
@@ -131,7 +131,7 @@ Seamounts north of Kimbe with strong currents and big-fish action. Often include
 - **The Nature Conservancy** has operated in Kimbe since the mid-1990s, supporting community marine management and original biodiversity surveys.
 - **Mahonia Na Dari** ("Guardian of the Sea") Research and Conservation Centre provides marine education and reef monitoring support.
 - **Conservation International** active in Milne Bay.
-- No large formal marine parks, but the decentralized clan-based system effectively limits destructive fishing — contributing to the reef health that makes PNG a strong recovery prospect.
+- No large formal marine parks, but the decentralized clan-based system effectively limits destructive fishing — contributing to the reef health that makes Papua New Guinea a strong recovery prospect.
 
 ## Related Destinations
 

@@ -84,5 +84,5 @@ Large horseshoe reef enclosing a sandy lagoon (5–14m). Resident pod of 60–80
 ## Related Destinations
 
 - [Northern Egypt](northern-egypt.md) — healthier reefs further north
-- [BDE Circuit](bde-circuit.md) — commonly combined itinerary
+- [Brothers/Daedalus/Elphinstone](bde-circuit.md) — commonly combined itinerary
 - [Sudan](sudan.md) — historically the next extension south (currently inaccessible)

@@ -67,7 +67,7 @@ Uninhabited, pristine, liveaboard-only access. Walls, reef sharks, untouched cor
 ## Practical Info
 
 - **Access**: Fly to Honiara (Henderson International Airport) via Brisbane (Solomon Airlines) or Fiji. Infrastructure outside Honiara is basic.
-- **Liveaboard operators**: **MV Bilikiki** (since 1989, now under Emperor Divers management since 2025) — 7- and 10-night itineraries covering Florida Islands, Russell Islands, Marovo Lagoon, Iron Bottom Sound. **Solomons PNG Master** (Master Liveaboards) rotates seasonally between Solomons and PNG.
+- **Liveaboard operators**: **MV Bilikiki** (since 1989, now under Emperor Divers management since 2025) — 7- and 10-night itineraries covering Florida Islands, Russell Islands, Marovo Lagoon, Iron Bottom Sound. **Solomons PNG Master** (Master Liveaboards) rotates seasonally between Solomons and Papua New Guinea.
 - **Land-based**: Uepi Island Resort (Marovo Lagoon). Limited shore-based diving from Honiara.
 - **Costs**: Liveaboard 7–10 nights USD $4,500–7,500 depending on vessel and cabin. Land-based at Uepi considerably less.
 - **Season**: March–December. Best conditions October–December (transitional season — calmer seas, good visibility).

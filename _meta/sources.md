@@ -4,7 +4,7 @@ This report synthesizes data from the following categories. Individual destinati
 
 ## Scientific & Monitoring
 
-- NOAA Coral Reef Watch — real-time SST, DHW alerts, bleaching forecasts (coralreefwatch.noaa.gov)
+- NOAA Coral Reef Watch — real-time sea surface temperature (SST), Degree Heating Week (DHW) alerts, bleaching forecasts (coralreefwatch.noaa.gov)
 - ICRI/SHAMS alerts — International Coral Reef Initiative status updates
 - GCRMN Caribbean Report 2025 — Global Coral Reef Monitoring Network regional assessment
 - CORDIO East Africa — Western Indian Ocean bleaching reports

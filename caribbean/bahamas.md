@@ -83,7 +83,7 @@ Dean's Blue Hole — 202m deep, the deepest known saltwater blue hole in the wor
 
 - **Bahamas Shark Sanctuary**: Established 2011, banning all commercial shark fishing across 630,000 km² of Bahamian waters — one of the world's largest shark sanctuaries. Shark populations have demonstrably stabilized. The sanctuary underpins the country's shark diving economy, estimated at $114 million annually.
 - **Exuma Cays Land and Sea Park**: No-take marine reserve since 1986. Fish biomass measurably higher inside park boundaries. Nassau grouper spawning aggregations actively protected.
-- SCTLD has been confirmed in Bahamian waters since 2019, spreading south through the archipelago and compounding bleaching damage to stony corals.
+- Stony Coral Tissue Loss Disease (SCTLD) has been confirmed in Bahamian waters since 2019, spreading south through the archipelago and compounding bleaching damage to stony corals.
 
 ## Related Destinations
 

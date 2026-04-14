@@ -52,7 +52,7 @@ Dramatic wall diving along the western shore. The wall drops from 12m with impre
 - **Humpback whales**: Jan–Apr through the Turks Island Passage (the deep channel between Grand Turk/Salt Cay and the Caicos bank). Peak Feb–Mar. Mothers with calves, singing males. Salt Cay is the base for whale encounters. Surface sightings near-guaranteed during season; in-water encounters weather- and behavior-dependent.
 - **Sharks**: Caribbean reef sharks common on all walls. Nurse sharks on ledges. Occasional hammerheads at Grand Turk and French Cay in deeper water.
 - **Rays and turtles**: Spotted eagle rays frequent on wall dives. Hawksbill and green turtles on virtually every dive. Southern stingrays on sand flats.
-- **Coral condition**: Shallow hard coral (staghorn, elkhorn, brain corals) severely impacted. SCTLD has been confirmed in TCI. Deeper wall communities are the resilient backbone of the diving experience here.
+- **Coral condition**: Shallow hard coral (staghorn, elkhorn, brain corals) severely impacted. Stony Coral Tissue Loss Disease (SCTLD) has been confirmed in TCI. Deeper wall communities are the resilient backbone of the diving experience here.
 
 ## Dive Conditions
 - **Visibility**: 30–40m is standard. The walls face open ocean with minimal runoff. Some of the most consistently clear water in the Caribbean.

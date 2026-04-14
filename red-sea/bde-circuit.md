@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-- Severely bleached in summer 2024. A ScubaBoard trip report (Aug 2024, Red Sea Aggressor IV) described Daedalus as "maybe every 200th coral is NOT bleached." A Dec 2024 report called BDE reefs "largely dead."
+- Severely bleached in summer 2024. A ScubaBoard trip report (Aug 2024, Red Sea Aggressor IV) described Daedalus as "maybe every 200th coral is NOT bleached." A Dec 2024 report called Brothers/Daedalus/Elphinstone reefs "largely dead."
 - HEPCA documented 70-85% recovery rates for surviving bleached corals, but many colonies died outright.
 - **Elphinstone looked very alive as of April 2026**, particularly the soft-coral side. Hard coral condition unclear vs. historical baseline, but the reef did not look degraded. Soft corals appear to be weathering the bleaching events better than hard corals across the region.
 - **The pelagic life is unaffected**: hammerheads, oceanic whitetips, thresher sharks remain. Go for the sharks; Elphinstone delivers on reef aesthetics too.
@@ -86,7 +86,7 @@ East and west walls between the plateaus are draped in vibrant red, orange, and 
 ## Practical Info
 
 - **Departure ports**: Hurghada (most operators), Port Ghalib/Marsa Alam (shorter crossing to Elphinstone and Brothers).
-- **Itinerary**: 6–7 nights. Standard BDE route covers all three over 5–6 diving days. Some add Salem Express wreck or Fury Shoals.
+- **Itinerary**: 6–7 nights. Standard Brothers/Daedalus/Elphinstone route covers all three over 5–6 diving days. Some add Salem Express wreck or Fury Shoals.
 - **Operators**: My Vasseem, Hurricane Fleet, Blue O Two, Emperor Elite/Superior, Red Sea Aggressor, Exocet. Book 3–6 months ahead for peak season.
 - **Permits**: Special marine park permits required for Brothers and Daedalus — arranged by operator, included in price. Limited boats allowed at each site simultaneously.
 - **Costs**: $1,200–2,500 per person for 6–7 nights depending on boat and season.

@@ -28,14 +28,14 @@ highlights:
 
 - **Six mass bleaching events since 2016** (2016, 2017, 2020, 2022, 2024, 2025). Consecutive years 2024-2025.
 - 2024: 74% of 1,080 surveyed reefs bleached. 44% of bleached colonies dead by July. Acropora mortality rate: 95% at worst reefs.
-- Northern GBR around Lizard Island: largest coral cover decline in 39 years of AIMS monitoring records (from 31.4% to 19.3%).
+- Northern Great Barrier Reef around Lizard Island: largest coral cover decline in 39 years of AIMS monitoring records (from 31.4% to 19.3%).
 - Average interval between bleaching events has been cut in half since 1980. Recovery windows are gone.
 - **Coral Sea (Osprey Reef)** fares better — remote oceanic atoll with cooler water. Still world-class for pelagic/wall diving.
 - **For liveaboard divers in 2026: no longer the best choice for coral aesthetics.** Still worthwhile for minke whales (July-Aug), Cod Hole, Coral Sea seamounts, unique marine life.
 
 ## Key Dive Sites
 
-### Ribbon Reefs (1-10, Northern GBR)
+### Ribbon Reefs (1-10, Northern Great Barrier Reef)
 
 Chain of ten narrow reefs along the continental shelf edge north of Cairns. Accessed almost exclusively by liveaboard.
 
@@ -45,7 +45,7 @@ Chain of ten narrow reefs along the continental shelf edge north of Cairns. Acce
 
 #### Steve's Bommie (Ribbon Reef 3)
 
-5-30m. Single pinnacle encrusted with soft corals, sea fans, anemones. Exceptional macro: nudibranchs, pygmy seahorses, at least 5 anemonefish species. Widely considered one of the GBR's best single dives.
+5-30m. Single pinnacle encrusted with soft corals, sea fans, anemones. Exceptional macro: nudibranchs, pygmy seahorses, at least 5 anemonefish species. Widely considered one of the Great Barrier Reef's best single dives.
 
 #### Pixie Pinnacle (Ribbon Reef 9)
 
@@ -81,7 +81,7 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 - Nautilus at Osprey Reef (deep-water species, unaffected by bleaching)
 - Green and hawksbill turtles — still common reef-wide
 - Humpback whales (Jul-Sep, southern migration)
-- Manta rays — seasonal at Lady Elliot Island (southern GBR) and some Ribbon Reef sites
+- Manta rays — seasonal at Lady Elliot Island (southern Great Barrier Reef) and some Ribbon Reef sites
 
 **Declining:**
 - Hard coral cover, especially branching Acropora — catastrophic losses on shallow reef flats
@@ -91,7 +91,7 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 
 ## Dive Conditions
 
-| | **Main GBR (Ribbon Reefs)** | **Coral Sea (Osprey/Holmes)** |
+| | **Main Great Barrier Reef (Ribbon Reefs)** | **Coral Sea (Osprey/Holmes)** |
 |---|---|---|
 | Visibility | 15-25m typical, occasionally 30m | 30-60m, commonly 40m+ |
 | Temperature | 24-29C (coolest Jul-Aug) | 24-28C, slightly more stable |
@@ -113,7 +113,7 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
   - **Spirit of Freedom**: 3-, 4-, 7-night itineraries. Ribbon Reefs + Coral Sea. AUD $2,500-$5,500+.
   - **Mike Ball (MV Spoilsport)**: 3-, 4-, 7-night. The original Coral Sea operator. Minke whale specialist trips. AUD $2,200-$5,000+.
   - **Coral Sea Dreaming**: Dedicated Coral Sea itineraries, smaller vessel.
-  - **ProDive Cairns**: Budget 3-day/2-night outer GBR (not Coral Sea). AUD $900-$1,200.
+  - **ProDive Cairns**: Budget 3-day/2-night outer Great Barrier Reef (not Coral Sea). AUD $900-$1,200.
 - **Coral Sea itineraries**: 5-7 nights. Osprey Reef ~12-15 hours from Cairns. Combined Ribbon Reefs + Coral Sea most popular format.
 - **GBRMPA fee**: AUD $7.00/day (usually included in trip price).
 - **Recompression chamber**: Townsville Hospital hyperbaric unit. Liveaboards carry emergency oxygen.
