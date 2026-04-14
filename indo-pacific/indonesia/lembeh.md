@@ -75,6 +75,7 @@ Guides are the key differentiator across all sites — they know exactly which r
 
 ## Related Destinations
 
+- [Bunaken](bunaken.md) — combine for wall diving + muck; opposite direction from Manado
 - [Alor](alor.md) — comparable muck diving quality with added pelagics
 - [Wakatobi](wakatobi.md) — combine for muck + coral
 - [Halmahera](halmahera.md) — nearby; fly via Manado

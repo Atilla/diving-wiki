@@ -53,18 +53,21 @@ Quick reference:
 - [Papua New Guinea](indo-pacific/png.md) — Kimbe Bay, Milne Bay
 - [Palau](indo-pacific/palau.md) — Blue Corner, Jellyfish Lake
 - [Fiji](indo-pacific/fiji.md) — Soft coral capital, Namena, Beqa
+- [Ishigaki / Yaeyama & Yonaguni](indo-pacific/japan-yaeyama.md) — Year-round mantas, Yonaguni hammerheads
 
 #### Indonesia
 - [Raja Ampat](indo-pacific/indonesia/raja-ampat.md) — World's best coral triangle
 - [Komodo](indo-pacific/indonesia/komodo.md) — Upwelling-protected reefs
 - [Banda Sea](indo-pacific/indonesia/banda-sea.md) — Pristine & remote
 - [Wakatobi](indo-pacific/indonesia/wakatobi.md) — Premium coral + macro
+- [Bunaken](indo-pacific/indonesia/bunaken.md) — World-class wall diving + turtles
 - [Lembeh Strait](indo-pacific/indonesia/lembeh.md) — World's #1 muck diving
 - [Triton Bay / Cenderawasih](indo-pacific/indonesia/triton-bay-cenderawasih.md) — Soft coral walls + whale sharks
 - [Nusa Penida](indo-pacific/indonesia/nusa-penida.md) — Mola mola + mantas
 - [Alor](indo-pacific/indonesia/alor.md) — Muck + pelagic combo
 - [Derawan / Kakaban](indo-pacific/indonesia/derawan-kakaban.md) — Jellyfish lake + mantas
 - [Halmahera](indo-pacific/indonesia/halmahera.md) — Last Coral Triangle frontier
+- [Togean Islands](indo-pacific/indonesia/togean-islands.md) — Ancient reefs, expedition-level access
 
 ### Caribbean & Atlantic
 - [Jardines de la Reina, Cuba](caribbean/jardines-cuba.md) — Inaccessible 2026-2027
@@ -81,6 +84,7 @@ Quick reference:
 - [Socorro](eastern-pacific/socorro.md) — Giant mantas & sharks
 - [Cocos Island](eastern-pacific/cocos-island.md) — Hammerhead schools
 - [Malpelo](eastern-pacific/malpelo.md) — Largest hammerhead schools on Earth
+- [Coiba Island](eastern-pacific/coiba.md) — Panama, CMAR corridor, UNESCO
 - [Hammerhead Triangle](eastern-pacific/hammerhead-triangle.md) — Eastern Tropical Pacific corridor
 
 ### Pacific
