@@ -17,9 +17,9 @@ experience_level: Advanced Open Water, 50+ logged dives recommended
 last_verified: 2026-04
 bleaching_resilience: moderate
 highlights:
-  - "Jurassic Park reef" — prehistoric-scale barrel sponges and XXL gorgonians
-  - Black Forest — ancient reef, potential genetic source for the Coral Triangle
-  - True zero-crowd diving on a remote volcanic island
+  - "'Jurassic Park reef' — prehistoric-scale barrel sponges and XXL gorgonians"
+  - "Black Forest — ancient reef, potential genetic source for the Coral Triangle"
+  - "True zero-crowd diving on a remote volcanic island"
 ---
 
 # Togean Islands
