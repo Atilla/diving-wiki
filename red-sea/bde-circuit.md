@@ -36,12 +36,15 @@ highlights:
 ### Big Brother
 
 #### Walls & Lighthouse
+
 Sheer walls drop from reef flat at 2m to beyond 70m. North and west walls host massive gorgonian fans and dense soft coral. Grey reef sharks patrolling the wall edge.
 
 #### Numidia Wreck
+
 Northern tip, 10–80m (mast at 10m, hull descends steeply). Encrusted in soft corals and glassfish — one of the Red Sea's most photogenic wrecks.
 
 #### Aida Wreck
+
 Southern end, 30–65m. Older wreck (1957), deeper and less intact but atmospheric. Requires advanced depth planning.
 
 ### Little Brother
@@ -51,20 +54,25 @@ Smaller reef, walls on all sides from 5m to 60m+. East and south walls are the p
 ### Daedalus Reef
 
 #### Shark Point (North Plateau)
+
 20–40m. The hammerhead cleaning station — early morning dives Nov–Feb offer the most reliable schooling hammerhead encounters in the Red Sea. Oceanic whitetips and grey reef sharks also patrol.
 
 #### Walls
+
 Steep coral walls on all sides; excellent gorgonians and soft corals on the east face. Isolated lighthouse marks this remote oval reef.
 
 ### Elphinstone Reef
 
 #### North Plateau
+
 20–45m. Sloping plateau extending into open water — the prime oceanic whitetip encounter site. Drift along the wall and hover at the plateau edge.
 
 #### South Plateau
+
 15–40m. Less consistent for sharks but strong for schooling barracuda and jacks. Occasional hammerheads.
 
 #### Soft Coral Walls
+
 East and west walls between the plateaus are draped in vibrant red, orange, and purple soft corals below 15m — among the most colorful walls in the Red Sea.
 
 ## Marine Life

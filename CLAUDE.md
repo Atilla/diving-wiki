@@ -9,6 +9,7 @@ This is a **Global Coral Bleaching Report for Liveaboard Trip Planning (2026)**.
 **Audience:** Divers planning liveaboard trips (and serious day-boat diving trips).
 
 **In scope:**
+
 - Liveaboard-accessible or serious-diver-relevant destinations worldwide
 - Coral/reef condition with scientific grounding (NOAA, peer-reviewed research)
 - Marine life encounters and reliability
@@ -16,6 +17,7 @@ This is a **Global Coral Bleaching Report for Liveaboard Trip Planning (2026)**.
 - Conservation context and MPA status
 
 **Out of scope:**
+
 - General travel advice (hotels, restaurants, non-diving activities)
 - Marine biology database (species taxonomy, phylogenetics)
 - Dive training or certification guidance
@@ -23,7 +25,7 @@ This is a **Global Coral Bleaching Report for Liveaboard Trip Planning (2026)**.
 
 ## 2. File Structure & Naming
 
-```
+```text
 diving-report/
 ├── CLAUDE.md                 ← this file (wiki schema & rules)
 ├── README.md                 ← main index with destination links
@@ -43,6 +45,7 @@ diving-report/
 ```
 
 **Naming conventions:**
+
 - One markdown file per destination
 - Filenames: lowercase, hyphenated, descriptive (e.g., `thailand-andaman-north.md`, not `thailand-1.md`)
 - Region folders match the `region` frontmatter field (see mapping below)
@@ -97,6 +100,7 @@ See `_meta/template.md` for the full template. Heading hierarchy:
 - `####` — individual dive sites (e.g., "Cape Kri", "Shark Reef & Yolanda Reef")
 
 **Rules:**
+
 - Omit sections that don't apply — don't leave empty sections
 - Status section always leads with a bold one-line summary matching the frontmatter `status` field
 - Individual dive sites follow the format: Name — depth range. Description. What to expect.
@@ -109,16 +113,19 @@ Use relative markdown links between files.
 **Link syntax:** `[Destination Name](../region/filename.md)` or `[Name](filename.md)` for files in the same folder.
 
 **Where cross-references appear:**
+
 1. **Inline in prose** — when the text naturally mentions another destination (e.g., "see [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) for near-guaranteed whale shark encounters")
 2. **`## Related Destinations` section** — bulleted list at the bottom of each file
 
 **Relationship categories for Related Destinations:**
+
 - **Geographic neighbor** — destinations commonly combined in one trip
 - **Similar experience** — comparable diving style (e.g., muck diving, wreck diving)
 - **Biological corridor** — connected ecosystems or migration routes
 - **Alternative to** — when one destination is degraded or unavailable, link to a similar option
 
 **Example Related Destinations section:**
+
 ```markdown
 ## Related Destinations
 - [Komodo](komodo.md) — combine in a single Indonesia liveaboard trip
@@ -134,22 +141,26 @@ Use relative markdown links between files.
 When incorporating new information, follow the workflow for the relevant source type:
 
 ### Trip reports (ScubaBoard posts, blogs, dive magazines)
+
 1. Extract: date, destination, coral observations, marine life encounters, conditions, operator info
 2. Compare against existing file content — note agreements and contradictions
 3. Update relevant sections (Status, Marine Life, Dive Conditions, Practical Info)
 4. Add entry to `## Trip Reports` with date and source type attribution
 
 ### Scientific / monitoring data (NOAA Coral Reef Watch, GCRMN, peer-reviewed studies)
+
 1. Update `## Status` section with new findings
 2. Assess whether `coral_rating`, `bleaching_resilience`, or `tier` should change
 3. Add source to `_meta/sources.md`
 
 ### Geopolitical / access changes (travel advisories, conflicts, visa changes, operator closures)
+
 1. Update `## Status` and `## Practical Info` immediately
 2. If destination becomes inaccessible: move to "Not Currently Viable" in `_meta/ranking-table.md`, set relevant frontmatter fields to `~`
 3. Geopolitical safety changes override all other considerations
 
 ### After any ingest
+
 - Update `last_verified` in frontmatter to current YYYY-MM
 - If `tier` or `status` changed, update `_meta/ranking-table.md` to match
 - Check if any insight in `_meta/strategic-takeaways.md` needs revision

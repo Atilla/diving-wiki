@@ -45,12 +45,15 @@ Hard coral coverage reportedly high on sheltered leeward slopes, with abundant t
 ### Other Dive Areas
 
 #### Moucha Island and Maskali Island
+
 Close to Djibouti City (30 min by boat), these offer the most accessible diving. Shallow reef flats with reasonable hard coral cover, better for less experienced divers. Snorkeling also viable. Less spectacular than the Seven Brothers but far easier to reach.
 
 #### Arta Beach area
+
 Fringing reef accessible from shore. Variable condition.
 
 #### Gulf of Tadjoura — whale shark encounters
+
 Djibouti's signature marine experience. **November to February**, juvenile whale sharks (typically 3-7m) aggregate in the plankton-rich gulf waters. Encounters are **remarkably reliable** by global standards — one of the most consistent whale shark aggregations in the world, comparable to Mafia Island or South Ari Atoll. Predominantly snorkeling-based. The sharks feed on dense plankton blooms, meaning visibility during encounters is often reduced (5-10m).
 
 ## Marine Life

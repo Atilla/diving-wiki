@@ -38,4 +38,5 @@ This report synthesizes data from the following categories. Individual destinati
 - Various diving publications and magazines
 
 ### World Adventure Divers (worldadventuredivers.com)
+
 Dive travel blog by Florine, running since 2012. Firsthand trip reports with dated dive logs, specific parameters (depth, temp, visibility), and detailed site descriptions. Covers Indonesia, Caribbean, Eastern Pacific, Mediterranean, and French Polynesia destinations. Budget/independent travel perspective. Used for 2022–2025 trip report data.

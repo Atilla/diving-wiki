@@ -25,6 +25,7 @@ highlights:
 # Alor
 
 ## Status
+
 **GOOD — Indonesia's best-kept secret; muck + pelagic combo**
 
 - Alor sits at the eastern end of the Lesser Sunda island chain (Nusa Tenggara Timur), ~50 km north of Timor. It has been quietly building a reputation since the mid-2010s as one of Indonesia's most underrated dive areas.
@@ -37,22 +38,27 @@ highlights:
 ## Key Dive Sites
 
 #### Kalabahi Bay
+
 Muck diving on black volcanic sand — frogfish, mimic octopus, blue-ringed octopus, rhinopias, flamboyant cuttlefish, Ambon scorpionfish.
 
 #### Pantar Strait
+
 Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays, massive schools of trevally and barracuda.
 
 ## Marine Life
+
 - **Muck/macro**: Rivals Lembeh — frogfish, mimic octopus, blue-ringed octopus, rhinopias, flamboyant cuttlefish, Ambon scorpionfish.
 - **Pelagics**: Hammerhead sharks (seasonal), mobula rays, mola mola (rare), massive schools of trevally and barracuda at Pantar Strait.
 - **Reef condition**: Good to excellent — low population pressure, limited fishing.
 
 ## Dive Conditions
+
 - **Temperature:** 26–29C surface; cold thermoclines from Pantar Strait upwelling possible (22–24C at depth).
 - **Currents**: Very strong and unpredictable — intermediate to advanced.
 - **Visibility**: 15–30m.
 
 ## Season
+
 - **Liveaboard season:** Sep–Nov (inter-monsoon window, same as Banda Sea). Land-based diving possible roughly Mar–Dec.
 - **Temperature:** 26–29C surface; cold thermoclines from Pantar Strait upwelling possible (22–24C at depth).
 - **Hammerheads:** seasonal at Pantar Strait pinnacles — most likely during cooler upwelling months (Sep–Nov), but not reliable enough to guarantee. Moon phase and current strength affect encounters.
@@ -61,6 +67,7 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 - **Muck diving:** stable year-round within the dive season. Kalabahi Bay critters are not seasonal.
 
 ## Practical Info
+
 - **Liveaboard operators**: Indo Siren, Adelaar, Katharina, Aurora run Alor routes, typically as part of longer Lesser Sunda crossings (Maumere–Alor) or Alor–Banda Sea transitional routes. Season roughly September–November.
 - **Land-based**: A handful of small resorts (e.g., Alor Divers) but options are limited. Getting to Alor requires flying to Kupang (West Timor) then a connecting flight on Wings Air.
 

@@ -32,12 +32,15 @@ highlights:
 ## Key Dive Sites
 
 #### SS President Coolidge
+
 The promenade deck at ~25–35m is accessible to advanced open water divers. "The Lady" (a large porcelain artwork) at ~40m and "The Lady and the Unicorn" are signature penetration targets. The ship is slowly deteriorating — some deck sections have collapsed — but remains spectacular.
 
 #### Million Dollar Point
+
 3–30m. Equipment dump cascading down a slope. Trucks, jeeps, bulldozers, forklifts, ammunition, Coca-Cola crates, all encrusted with coral. An eerie, photogenic site.
 
 #### Blue holes
+
 Freshwater/saltwater cave systems — Nanda Blue Hole, Matevulu Blue Hole. Remarkable clarity.
 
 Reef diving around Efate (Port Vila) and Santo is decent but not the primary draw.

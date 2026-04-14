@@ -43,9 +43,11 @@ The 14 main dive sites are spread across three island groups: Rancheria/Coibita 
 The northern group — the most remote and rewarding. Accessible only via multi-day expeditions. Strong currents, significant depths, and negative entries make these sites suitable only for experienced divers.
 
 #### Sueno del Pescador (Fisherman's Dream) — Brincanco Island
+
 20-32m. An underwater Eden of colourful sea fans and gorgonians dancing in current across boulder fields, walls, and canyons. King angelfish swim above the soft coral gardens. Murky thermocline at ~10m — below it, visibility clears but ambient light drops dramatically. Above the thermocline: schools of jackfish, grunt, spadefish, longtail stingrays, and white-tip sharks create an underwater festival during safety stops. Giant spiny lobsters, loggerhead turtles. Requires Advanced with Deep specialty, ~100 dives recommended.
 
 #### Punta Peligro (Danger Point) — Uva Island
+
 25-36m. The deepest diving in the park, named for the waves crashing on the point above. Colossal nurse sharks resting on the reef — heads measured at ~50cm wide. Dense sea fan gardens on large boulders in the 25-30m zone. Sandy bottom at 35-40m holds the possibility of bull sharks. Negative entry, rough surface conditions. Damselfish-vs-octopus territorial battles, bluefin trevally schools at safety stop.
 
 ### Canales Islands (Afuera and Afuerita)
@@ -53,15 +55,19 @@ The northern group — the most remote and rewarding. Accessible only via multi-
 The most visited area, 1.5 hours by boat from Santa Catalina. Day-trip accessible. More moderate conditions than Contreras but still rewarding.
 
 #### Punta Faro (Lighthouse Point) — Afuera Island
+
 8-24m. The most reliably good site in the Canales group — consistently delivers sharks and turtles. Gentle drift dive starting over a sandy bottom with garden eels and white-tip sharks (seen on virtually every dive). Swim-through canyon. At 18-20m, an exceptional concentration of rainbow wrasse, razor surgeonfish, black-nosed butterflyfish, white-spotted pufferfish, and king angelfish over small gorgonians and sponges. Crown-of-thorns starfish observed here — a concern for coral health. Safety stops among massive jackfish schools.
 
 #### Wahoo Rock — Afuera Island
+
 10-20m. Wall dive with excellent marine life even without pelagic encounters. King angelfish abundant at ~15m. Tufted tube blennies pop in and out of holes along the wall. White-tip shark resting area at ~10m above the rock. Frogfish reportedly spotted here. Loggerhead turtles commonly appear during safety stops.
 
 #### Buffet — Afuera Island
+
 14-22m. The whale shark site — January through March is the season, though sightings are not guaranteed (a 2025 trip report covering February-March had no whale shark encounters here). When the pelagics do not appear, it can be underwhelming. White-tip shark nesting area discovered on deeper explorations.
 
 #### Bajo Pinon — Afuerita Island
+
 10-18m. Interesting sponge formations and abundant moray eels. White-tip sharks approachable. Enormous schools of Pacific spadefish are the highlight.
 
 ### Rancheria Island (Coibita)
@@ -69,9 +75,11 @@ The most visited area, 1.5 hours by boat from Santa Catalina. Day-trip accessibl
 The closest island group to the mainland. Good for macro and reef diving.
 
 #### Iglesia — Rancheria Island
+
 5-14m. The macro jewel of Coiba. Walls and antler coral formations reward patient inspection. Harlequin shrimp — a prized macro find. Pacific seahorses reported. White-tip sharks, snowflake moray eels, bluefin trevally. Ideal for photographers with macro lenses.
 
 #### Pacora — Afuera Island
+
 10-17m. Night dive site during multi-day expeditions. Colourful sea fans, porcupine pufferfish, giant hermit crabs. Notable bioluminescent plankton when disturbed.
 
 ## Marine Life

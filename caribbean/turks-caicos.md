@@ -25,6 +25,7 @@ highlights:
 # Turks & Caicos
 
 ## Status
+
 **SIGNIFICANT bleaching; wall diving maintains quality**
 
 - SSTs peaked at 31.53C in 2024. Hard coral compromised across shallow reefs. However, the territory's signature diving — dramatic vertical walls beginning at 12–15m and plunging thousands of meters — relies on sponge, gorgonian, and deep-water communities that are far more resilient to thermal stress. Wall diving quality remains high.
@@ -32,18 +33,23 @@ highlights:
 ## Key Dive Sites
 
 #### Grand Turk Wall
+
 The premier site. The wall begins just 270m offshore, dropping from 10–12m to over 2,100m. Divers swim off the beach or make a short boat ride and are immediately on a vertical face festooned with barrel sponges (some exceeding 1.5m diameter), purple tube sponges, deep-water gorgonians, and black coral. Pelagics cruise the blue — reef sharks, eagle rays, occasional hammerheads. The proximity and accessibility of this wall is essentially unmatched in the Caribbean.
 
 #### Providenciales (Grace Bay area)
+
 Northwest wall sites including The Pinnacles (coral towers rising from 12m to within 3m of surface), Shark Hotel (sand channels at 12–18m where Caribbean reef sharks rest), and Northwest Point Marine National Park — wall diving with the best shark density around Provo. Grace Bay's shallow reef is heavily impacted by bleaching and tourism pressure.
 
 #### Salt Cay
+
 Tiny island south of Grand Turk. Wall diving comparable to Grand Turk with fewer divers. The primary draw is humpback whale encounters — whales pass through the Turks Island Passage Jan–Apr, and Salt Cay is directly on the migration route. In-water encounters (snorkel) are possible when conditions and whale behavior permit. HMS Endymion wreck at 12m adds historical interest.
 
 #### French Cay
+
 Uninhabited island ~30km south of Providenciales. Pristine wall diving with some of the healthiest coral and sponge growth in the territory. Strong currents bring nutrients and pelagics — sharks, large groupers, schools of horse-eye jacks. Limited operator access preserves quality. Considered the best overall diving in TCI by experienced local guides.
 
 #### West Caicos
+
 Dramatic wall diving along the western shore. The wall drops from 12m with impressive sponge cover. The "Driveway" — a narrow sand chute cutting through the reef crest — funnels marine life and creates reliable encounters. Eagle rays, turtles, large barracuda. The island is uninhabited; diving is weather-dependent.
 
 ## Marine Life
@@ -55,11 +61,13 @@ Dramatic wall diving along the western shore. The wall drops from 12m with impre
 - **Coral condition**: Shallow hard coral (staghorn, elkhorn, brain corals) severely impacted. Stony Coral Tissue Loss Disease (SCTLD) has been confirmed in TCI. Deeper wall communities are the resilient backbone of the diving experience here.
 
 ## Dive Conditions
+
 - **Visibility**: 30–40m is standard. The walls face open ocean with minimal runoff. Some of the most consistently clear water in the Caribbean.
 - **Temperature**: 25–29C. Winter 25–27C, summer 28–29C.
 - **Currents**: Mild to moderate on most wall sites. French Cay and some Grand Turk sites can have strong current — drift diving standard.
 
 ## Season
+
 - **Best months**: Jan–Apr combines good visibility, comfortable temperatures, and humpback whale season. Diving is year-round; summer brings warmer water but higher bleaching-stress risk and hurricane season (Aug–Nov).
 
 ## Practical Info

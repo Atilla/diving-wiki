@@ -37,45 +37,57 @@ highlights:
 ### Ras Mohammed National Park
 
 #### Shark Reef & Yolanda Reef
+
 5–40m+. Sheer coral wall at Shark Reef, connected by a saddle to Yolanda Reef where cargo from a 1980 freighter (toilets, bathtubs) is encrusted in coral at 15–25m. Schools of barracuda, jacks, snappers; Napoleon wrasse resident; grey reef sharks on the drop-off. The signature Red Sea wall dive.
 
 #### The Alternatives
+
 12–30m. Less-visited coral gardens with excellent coverage; great macro and frequent turtle encounters.
 
 ### Tiran Strait
 
 #### Jackson Reef
+
 10–50m+. Strongest currents. Hammerhead sightings in cooler months. Wreck of the Lara on reef flat.
 
 #### Woodhouse Reef
+
 15–40m. Long wall drift dive; gorgonians and soft corals. Barracuda, trevally, eagle rays.
 
 #### Thomas Reef
+
 10–40m. Smallest, strongest currents — canyon at 25m. Most challenging but most rewarding for pelagics.
 
 #### Gordon Reef
+
 10–25m. Easiest; sandy slope with garden eels, moray eels, Louilla wreck on reef top.
 
 ### Dahab
 
 #### Blue Hole
+
 Shore entry into a 110m-deep sinkhole; recreational diving around the rim at 6–30m. The Arch (55m+) is a tech feature only.
 
 #### Canyon
+
 15–30m. Narrow swim-through into a sandy amphitheatre. Glassfish, crocodilefish, octopus.
 
 #### Lighthouse
+
 5–30m. House reef with exceptional macro — ghost pipefish, seahorses, blue-spotted stingrays.
 
 #### Bells to Blue Hole Drift
+
 Entry through a chimney at 30m, drift along wall to Blue Hole. Soft corals, Napoleons, barracuda.
 
 ### Hurghada Area
 
 #### Giftun Islands
+
 5–25m. Protected reefs, strong hard coral. Turtles, moray eels, anemonefish, schooling anthias.
 
 #### Abu Nuhas Wrecks
+
 10–30m. Four wrecks on one reef — **Carnatic** (1869, intact, glassfish-filled), **Giannis D** (1983, large groupers), **Chrisoula K**, **Kimon M**. Outstanding wreck penetration.
 
 ## Marine Life
@@ -89,6 +101,7 @@ Whitetip reef sharks at Ras Mohammed and Tiran. Green and hawksbill turtles wide
 - **Currents**: Mild at most sites; Tiran can produce 1–2 knots at Thomas and Jackson.
 
 ## Season
+
 - **Best season:** October-May (avoids summer heat stress peak).
 - **Water temperature:** 21–23C winter, 26–29C summer. 5mm winter, 3mm summer.
 - **Peak heat stress:** June–September — coral bleaching risk window; diving still possible but less optimal.

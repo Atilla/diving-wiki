@@ -35,34 +35,43 @@ highlights:
 ### Fakarava
 
 #### South Pass (Tetamanu)
+
 5–35m. The signature dive — a wide channel cutting through the atoll's southern barrier reef. Incoming tides carry divers through the pass alongside hundreds of grey reef sharks patrolling the channel walls and bottom. During grouper spawning (Jun–Jul), shark numbers peak as predators aggregate for the event. Night dives during spawning are legendary — sharks in hunting frenzy. Intermediate to advanced (strong currents, timing critical).
 
 #### North Pass (Garuae)
+
 5–30m. The largest pass in the Tuamotus (~1.6 km wide). Less concentrated than the south but enormous volume of marine life — grey reef sharks, manta rays, eagle rays, Napoleon wrasse, barracuda, dolphins. Drift dives on incoming tide. More accessible than the south pass.
 
 #### Ohotu Side / Alibaba
+
 Inner lagoon sites with pristine coral gardens, turtle encounters, and more relaxed diving between pass dives.
 
 ### Rangiroa
 
 #### Tiputa Pass
+
 5–35m. Rangiroa's premier dive — a wide pass with powerful tidal exchanges. Bottlenose dolphins surf the current and interact with divers (a Rangiroa specialty). Grey reef sharks, hammerheads (Nov–Mar at depth), manta rays, eagle rays, barracuda schools, Napoleon wrasse. Silvertip sharks at depth. Strong currents — advanced.
 
 #### Avatoru Pass
+
 10–30m. The second main pass, slightly calmer. Good shark and ray encounters, excellent coral on the walls. Moray eels, groupers, turtles.
 
 #### The Blue Lagoon
+
 Shallow inner lagoon area with blacktip reef sharks in crystal-clear (40m+) shallows — snorkeling and easy diving.
 
 ### Lesser-visited Tuamotu atolls (accessible by liveaboard)
 
 #### Tikehau
+
 Small pass with concentrated sharks ("the shark pit" — whitetip, blacktip, grey reef sharks packed into a narrow channel). Manta rays in the lagoon.
 
 #### Toau
+
 Visited by liveaboards; pristine and virtually undived.
 
 #### Makemo, Ahe, Manihi
+
 Occasional liveaboard stops with excellent pass diving and zero crowds.
 
 ## Marine Life

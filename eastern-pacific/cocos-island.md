@@ -33,24 +33,31 @@ highlights:
 ## Key Dive Sites
 
 #### Bajo Alcyone
+
 25–27m+ (seamount top), dropping beyond recreational limits. The premier hammerhead site. Divers hold position on rocky top in current watching schools pass overhead. Reef hooks standard. Also produces whale shark encounters in peak season.
 
 #### Dirty Rock
+
 10–35m. Rocky pinnacle cluster with walls and channels. Dense whitetip reef shark aggregations, marble rays, occasional hammerhead schools. Cleaning stations attract large pelagics. One of the more reliable sites across conditions.
 
 #### Manuelita
+
 5–35m. Small islet with sheltered shallow coral garden (inside) and steep exposed wall (outside). Inside: cleaning stations for whitetips, giant mantas, marble rays. Outside: hammerheads and Galapagos sharks. **The famous night dive** — dozens of whitetip reef sharks hunting cooperatively across the reef in coordinated packs. One of Cocos' signature spectacles.
 
 #### Viking Rock
+
 15–30m. Submerged rock formation. Schooling hammerheads and silky sharks. Strong currents. Can deliver encounters comparable to Alcyone on good days.
 
 #### Silverado
+
 12–30m. Named for silvery baitfish schools. Jacks, tuna, predatory sharks feeding on bait balls. Eagle rays common.
 
 #### Punta Maria
+
 10–35m. Southern point, exposed to open ocean. Galapagos sharks frequently seen, large schools of jacks, occasional tiger sharks.
 
 #### Shark Fin Rock
+
 10–25m. Whitetips, marble rays, smaller reef species. Calmer alternative when conditions limit access to exposed sites.
 
 ## Marine Life

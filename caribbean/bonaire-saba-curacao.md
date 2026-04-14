@@ -25,6 +25,7 @@ highlights:
 # Bonaire / Saba / Curacao
 
 ## Status
+
 **HARD CORAL SEVERELY DAMAGED — but diving experience better than headlines suggest**
 
 - Stony Coral Tissue Loss Disease (SCTLD) arrived March 2023, devastating brain/maze/pillar corals already under bleaching stress. Back-to-back bleaching in 2023-2024. Hard coral cover now under 10% on average (down from ~50% historically). Staghorn corals largely dead by early 2025.
@@ -36,16 +37,19 @@ highlights:
 ## Key Dive Sites
 
 ### Best and worst sites
+
 - **Doing well:** Karpata (north) — consistently praised, hard and soft coral at depth. White Slave to Vista Blue (south) — gorgeous soft corals. Klein Bonaire — dense yellow finger coral. Red Beryl North / Margate Bay — outstanding soft coral.
 - **Doing worse:** Kralendijk town-area sites — worst SCTLD impact. Invisibles — described as "barren" by one repeat visitor.
 - **Salt Pier:** opinions split — some call it disappointing, others dove it three times in March 2025 and enjoyed it. Pilings with sponges remain impressive.
 
 ## Marine Life
+
 - **Turtles:** multiple 2025 divers report more turtles than ever. ~500 green turtles and 70 hawksbill on west coast/Klein Bonaire, populations stable to increasing since 2003.
 - **Fish diversity:** 470-500+ species — highest in the Caribbean. Remains robust.
 - Eagle rays, stingrays, tarpon, barracuda regularly reported across 2025 trips.
 
 ## Conservation
+
 - Reef Renewal Foundation Bonaire: 65,000+ corals outplanted. Nursery stock showed **92.5% bleaching recovery with minimal mortality** — heat-tolerant genetics.
 - First-ever successful pillar coral spawning collection on Bonaire (2025). 236,000 grooved brain coral larvae bred from 14 colonies.
 - Lab-reared corals show better bleaching resistance, and heat tolerance passes to offspring.
@@ -55,12 +59,14 @@ highlights:
 - **If hard coral gardens are your priority, Bonaire will disappoint vs. its former glory.** But soft corals, sponges, marine life, and the world-class shore-diving infrastructure make it still one of the better Caribbean diving destinations. Northern and southern sites are meaningfully better than mid-island.
 
 ## Dive Conditions
+
 - **Visibility**: 18–30m typically, frequently exceeding 30m on calm days. Leeward coast sheltered from open-ocean swells.
 - **Temperature**: 26–29C year-round. 3mm sufficient; rashguard only in summer.
 - **Currents**: Generally mild to nonexistent on leeward shore sites. Occasional light drift at Karpata or along Klein Bonaire. Windward (east) coast undiveable.
 - **Profiles**: Shallow reef tops at 5–10m give way to sloping reef dropping to 25–40m. Most dives are multi-level, self-guided, 45–70 minutes.
 
 ## Season
+
 - **Temperature:** 26–30C year-round. Coolest Jan–Mar (~26–28C), warmest Jul–Oct (~28–30C). Rashguard or 3mm sufficient year-round.
 - **Year-round destination** — one of the most weather-reliable dive destinations in the Caribbean.
 - **Best:** Feb–Jun (calmest seas, best visibility — consistently 30m+). Apr–Jun is the sweet spot.
@@ -69,6 +75,7 @@ highlights:
 - **Visibility:** 18–30m+ year-round, frequently exceeding 30m Feb–Jun. Rarely drops below 18m.
 
 ## Practical Info
+
 - **Access**: Flamingo International Airport (BON). Direct flights from Miami, Houston, Atlanta, Newark, and Amsterdam (KLM — Bonaire is a Dutch special municipality). 4–5 hours from US East Coast.
 - **Shore-diving infrastructure**: Bonaire's defining feature. ~60 marked dive sites ring the leeward coast, each identified by a numbered yellow painted stone on the roadside. Divers rent pickup trucks, load their own tanks, and dive 24/7 at their own pace — no boat, no guide, no schedule. Most resorts offer unlimited tank packages and drive-through tank fills.
 - **Operators**: Buddy Dive Resort (drive-through tank station), Dive Friends Bonaire (multiple locations), Wannadive. Most resorts are dive-resort hybrids.

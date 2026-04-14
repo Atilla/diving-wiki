@@ -36,37 +36,47 @@ highlights:
 ### Darwin Island (remote north)
 
 #### Darwin's Arch
+
 10–30m. The archipelago's most famous site — a submerged platform and rocky reef adjacent to where the iconic stone arch once stood. The arch itself collapsed on May 17, 2021 (natural erosion); the two remaining pillars and the underwater terrain are unchanged. Divers settle on the sandy plateau at ~15m and watch the show: whale sharks (Jun–Nov), schooling hammerheads in the hundreds, Galapagos sharks, bottlenose dolphins, green turtles, eagle rays. Strong currents standard — reef hooks common. Arguably the single best dive site in the Eastern Pacific.
 
 ### Wolf Island (remote north)
 
 #### The Landslide
+
 10–30m. A boulder-strewn slope created by volcanic rockfall. Hammerhead schools cruise the thermocline at 20–25m. Galapagos sharks patrol the slope. Eagle rays and green turtles in the shallows.
 
 #### The Caves
+
 5–25m. Volcanic rock formations with swim-throughs and overhangs. Whitetip reef sharks resting in crevices, sea lions, moray eels. More sheltered — a good complement to the exposed sites.
 
 #### Shark Bay
+
 8–25m. Sheltered cove on the leeward side. Hammerheads aggregate reliably. Galapagos sharks, large schools of creole fish, occasional whale sharks passing through.
 
 ### Central Islands (day-trip accessible from Santa Cruz/Isabela)
 
 #### Gordon Rocks
+
 10–35m. Submerged volcanic crater ~1 hour by boat from Puerto Ayora. The best hammerhead site accessible without a liveaboard — schools of 20–50+ frequently seen at depth along the crater wall. Strong currents, surge, and downcurrents make this a genuinely advanced dive. Also: eagle rays, sea turtles, sea lions, occasional mola mola.
 
 #### Cabo Marshall (Isabela)
+
 10–30m. Rocky reef and wall on Isabela's northeast coast. The premier central-islands site for manta rays (resident population at cleaning stations) and mola mola. Hammerheads, sea turtles, sea lions. Accessible by day boat from Puerto Villamil.
 
 #### North Seymour
+
 8–20m. Gentle sloping reef with boulder formations. Sea lions are the star — playful, spinning, approaching divers for extended interaction. Also: whitetip reef sharks, garden eels, stingrays. Good for less experienced divers. Topside: magnificent frigatebird and blue-footed booby colonies.
 
 #### Cousin's Rock
+
 8–30m. Rocky pinnacle with excellent wall diving. Seahorses (uncommon elsewhere in the archipelago), frogfish, nudibranchs, black coral bushes. Sea lions, Galapagos sharks, occasional hammerheads. The best macro site in the islands — a counterpoint to the pelagic focus elsewhere.
 
 #### Punta Vincente Roca (Isabela NW)
+
 15–36m. Liveaboard only, northwest point of Isabela. The premier site for mola mola — cold upwelling water (14–17C) brings sunfish into diveable depths. Also: manta rays, Galapagos penguins visible on dives (not just snorkeling), gorgonian gardens. Dramatically lower current than Darwin/Wolf — excellent for underwater photography. Among the coldest diving in the archipelago.
 
 #### Cabo Douglas (Fernandina)
+
 4–24m. Liveaboard only. The primary site for marine iguana feeding encounters on scuba — iguanas graze on algae in the shallows while sea lions play around divers. Deeper sections: red-lipped batfish on sandy bottoms, torpedo rays, gorgonians. Very cold water (~17C).
 
 ## Marine Life
@@ -117,6 +127,7 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 - **Tourism management**: Total visitor numbers to the Galapagos are capped (though caps have been raised repeatedly — ~270,000 visitors in 2023). Dive operator permits are strictly limited. Park fees fund ranger programs and research.
 
 ## Trip Reports
+
 - Jun 2022 (WAD blog): Month-long land + liveaboard trip. Whale shark at Darwin, 2 mola mola at Punta Vincente Roca, 100+ turtles at Gordon Rocks, hammerhead schools at Darwin/Wolf. Described conditions as "the Olympics of scuba diving" — very strong currents at Darwin/Wolf.
 
 ## Related Destinations

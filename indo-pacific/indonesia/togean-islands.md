@@ -25,6 +25,7 @@ highlights:
 # Togean Islands
 
 ## Status
+
 **FRONTIER — pristine, ancient reefs in Central Sulawesi; extremely remote, zero crowds, expedition-level access**
 
 The Togean Islands National Park is an archipelago in the Gulf of Tomini, Central Sulawesi, encompassing over 56 islands including coral atolls, volcanic islands, and limestone formations. Una Una is a lone volcanic island sitting slightly apart from the rest of the archipelago, and it is the primary dive base within the park.
@@ -40,37 +41,47 @@ All sites are accessed by boat from Sanctum Una Una Dive Resort on Una Una islan
 ### Una Una — West and North Walls
 
 #### Greta's Place
+
 31m depth. Dramatic wall dive that sets the tone for Una Una diving. Giant tubular and barrel sponges rise like architectural structures, gorgonians cascade in XXL scale into the blue. Wide-angle territory — macro lenses stay in the box here. Perfect visibility typical.
 
 #### Pinnacle I
+
 32m depth. Pinnacle rising from depth with the same oversized sponge and gorgonian character. Clean drift diving with no other boats in sight.
 
 #### Pinnacle II
+
 Accessed via a blue-water swim from Satellite. Delicate hard corals in perfect condition. A contrast to the giant-scale wall sites. Juvenile batfish reportedly frequent safety stop depth.
 
 #### Satellite
+
 36m depth. Deeper site with navigation through open blue water between underwater summits. Oversized gorgonians and sponges continue the "Jurassic Park" scale. Requires comfortable deep diving and blue-water navigation.
 
 ### Una Una — South
 
 #### Apollo
+
 32m depth. Known for barracuda action, though sightings are not guaranteed. Beautiful plateau of soft corals, anemones, and thick schools — blue trevally, blue-striped snappers, sixbar angelfish, bignose unicornfish (Naso vlamingii). Fish density can be so high it feels like pushing them aside.
 
 #### Hong Kong
+
 25m depth. Schooling fish over rose-shaped hard corals and enormous sponges. Slightly lower visibility gives a moodier atmosphere. Barracuda ribbons in the blue.
 
 ### Una Una — Signature Sites
 
 #### Black Forest
+
 17m depth. The mythic dive of Una Una. Marine biologists have suggested this reef structure is millions of years old and could be a genetic source point for the Coral Triangle. Underwater, it feels ancient: surreal formations shift from vertical "pine trees" to "cabbage" fields to "mushroom" shapes, like crossing different eras of reef evolution in a single dive. Shallow enough for long bottom times.
 
 #### Kingston Wall
+
 30m depth. Hard and soft corals in balance, sponges, anemones, and clouds of anthias. Repeatedly described as having a composition so natural it looks styled — every angle a wide-angle photograph.
 
 #### Abyss
+
 32m depth. Deep wall site.
 
 #### Barren Land
+
 19m depth. Macro-productive shallow site. Nudibranchs (geometric chromodoris, reliable chromodoris, white-spotted thuridilla, samla bicolor, girdled glossodoris) and harlequin shrimp logged on a single dive. Una Una does not market itself as a macro destination, but it clearly has range.
 
 ## Marine Life
@@ -83,18 +94,21 @@ Accessed via a blue-water swim from Satellite. Delicate hard corals in perfect c
 - **Sharks**: Not prominently reported from the WAD 2025 trip, though the remote location and low fishing pressure suggest healthy populations may exist at less-visited sites.
 
 ## Dive Conditions
+
 - **Visibility**: Excellent — frequently 20-30m+, occasionally lower at south-side sites giving a moody atmosphere. Conditions in June 2025 were consistently very good.
 - **Temperature**: 29-30C in June. A 3mm suit is sufficient; many dive in rashguards.
 - **Currents**: Generally mild to moderate. Gentle drifts typical. Deeper sites (Satellite, Pinnacle I/II) may have more current.
 - **Experience level**: Advanced Open Water with 50+ dives recommended. Not because of challenging conditions (currents are manageable), but because of remoteness: no recompression chamber nearby, limited medical infrastructure, and deep wall profiles (30-36m common). Conservative dive profiles essential.
 
 ## Season
+
 - **Best**: April-November. The Gulf of Tomini has a somewhat inverted weather pattern compared to other Indonesian destinations — calmer seas during the southeast monsoon.
 - **Peak**: June-August offers the calmest seas and most consistent conditions.
 - **Avoid**: December-March can bring rougher seas in the Gulf of Tomini, and the long speedboat crossing to Una Una becomes less comfortable.
 - Water temperature is warm year-round (28-30C).
 
 ## Practical Info
+
 - **Access**: Extremely difficult — this is a genuine expedition-level transit chain.
   - **Option 1 (recommended)**: Fly to Gorontalo (GTL) via Makassar or Manado on Lion Air or Garuda. Drive 2.5 hours east to a jetty in Boalemo. Speedboat 2 hours to Una Una. Sanctum arranges the ground transfer and boat.
   - **Option 2 (budget/masochist)**: Overnight bus from Manado to Gorontalo (~12 hours), then continue as above.

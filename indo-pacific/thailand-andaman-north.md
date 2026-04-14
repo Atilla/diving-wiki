@@ -43,6 +43,7 @@ highlights:
 12-30m. Massive boulder-and-coral-garden terrain on the sheltered east side. Signature: huge table corals, sea fans, turtles resting on bommies, octopus, lionfish. Best all-round reef dive in the Similans.
 
 #### West of Eden (#7)
+
 10–30m. West-side exposure of Island 7 — granite boulders with different marine life from the sheltered east side. Stronger currents, more exposed.
 
 #### Elephant Head Rock
@@ -100,6 +101,7 @@ Fringing reefs and granite boulders. Torinla Rock (12-30m): current-swept pinnac
 ### Koh Tachai
 
 #### Koh Tachai Pinnacle
+
 10–30m. Pyramid-shaped rocks covered in large colourful gorgonians. Schools of batfish, barracuda, and emperor fish — WAD (Jan 2024) described this as leaving "the biggest impression." Good night diving with nudibranchs. Note: Koh Tachai island closed to land visitors since 2016 due to over-tourism, but underwater sites remain diveable.
 
 ### Burma Banks

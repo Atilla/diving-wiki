@@ -25,6 +25,7 @@ highlights:
 # Lembeh Strait
 
 ## Status
+
 **WORLD-CLASS — the undisputed #1 muck diving destination, stable condition**
 
 - Lembeh Strait, between Lembeh Island and the North Sulawesi mainland near Bitung, remains the world's premier muck diving destination. This has not changed and no credible challenger has emerged.
@@ -37,25 +38,31 @@ highlights:
 ## Key Dive Sites
 
 #### Jahir
+
 5–20m. Premier night dive site. Flamboyant cuttlefish, long-arm octopus, juvenile coconut octopus, stargazer. Black sand slope.
 
 #### Nudi Falls
+
 5–19m. Shallow wall and slope. Pontoh's pygmy seahorse, Lembeh seadragon, yellow giant frogfish, diverse nudibranchs. The most popular site — can be congested despite boat regulation system.
 
 #### Tanjung Tebal
+
 5–24m. Lembeh Island shore entry. Sandy slope with flamboyant cuttlefish eggs (in season), common seahorse, nudibranchs.
 
 Guides are the key differentiator across all sites — they know exactly which rubble patch holds which species and update daily.
 
 ## Marine Life
+
 - **Signature critters**: Hairy frogfish, mimic octopus, blue-ringed octopus, flamboyant cuttlefish, wonderpus, rhinopias, Banggai cardinalfish, Bobbit worms, extraordinary nudibranch diversity. All reliably sighted. Lembeh seadragon at Nudi Falls — a signature Lembeh species.
 - The black sand muck habitat is inherently resilient to bleaching. Invertebrate and critter populations appear stable through 2025 reporting.
 
 ## Dive Conditions
+
 - **Costs**: Resort + diving packages $200–400+ per person/day. No longer a budget destination.
 - **Recompression chamber**: Manado (near Bunaken) has a chamber.
 
 ## Season
+
 - **Temperature:** 25–29C year-round. Coolest Jul–Sep (~25–26C), warmest Dec–Feb (~28–29C).
 - **Year-round destination** — the strait is sheltered from open-ocean monsoon swells, making it diveable in all months. Muck habitat and critter populations are stable year-round.
 - **Best:** Aug–Oct (dry season, cooler water brings critters shallower, best macro activity, good visibility by muck standards).
@@ -65,12 +72,14 @@ Guides are the key differentiator across all sites — they know exactly which r
 - **Wetsuit:** 3mm sufficient year-round; rashguard in warm months.
 
 ## Practical Info
+
 - **Access**: Via Manado (Sam Ratulangi Airport), drive to Bitung (~30 min via toll road, or 1.5–2 hours on the old road), short boat crossing.
 - **Operators**: Lembeh Resort, NAD Lembeh, Hairball Resort, Two Fish Divers, Kungkungan Bay Resort.
 - **Costs**: Resort + diving packages $200–400+ per person/day. No longer a budget destination.
 - **Recompression chamber**: Manado (near Bunaken) has a chamber.
 
 ## Trip Reports
+
 - Jun 2025 (WAD blog): 2-day visit. Flamboyant cuttlefish found within 20 minutes on first night dive at Jahir. "Lembeh's muck wasn't as murky or dirty as I was told."
 
 ## Related Destinations

@@ -71,6 +71,7 @@ highlights:
 ```
 
 ## Heading level rules
+
 - `#` — destination name (one per file)
 - `##` — main sections (Status, Key Dive Sites, Marine Life, etc.)
 - `###` — site clusters or sub-areas (e.g., "North and Central Atolls", "Fury Shoals")

@@ -34,15 +34,19 @@ highlights:
 ## Key Dive Sites
 
 #### La Nevera ("The Freezer")
+
 Northeast side. Deep canyons and caves. One of the best hammerhead sites — schools in shallower water during cold season (Dec–Mar) when the thermocline rises. Steep slopes with barnacle-covered rock and sea fans.
 
 #### Bajo del Monstruo ("Monster Seamount")
+
 The deep-water pinnacle famous for smalltooth sand tiger shark sightings. Galapagos sharks, oceanic whitetips. Advanced — deep and current-swept.
 
 #### El Freezer
+
 Cold-water site with strong thermoclines. Hammerhead aggregations.
 
 #### La Catedral, La Gringa, El Arrecife, El Tunel de Vagamares
+
 ~25 named sites around the island. Diving typically weather-dependent — rough conditions can restrict access to a single area.
 
 ## Marine Life

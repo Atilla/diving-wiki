@@ -36,56 +36,73 @@ highlights:
 ### The Essentials
 
 #### Fujikawa Maru
+
 15–34m. Passenger-cargo vessel, 133m. The signature Chuuk wreck. Zero fighter aircraft parts (wings, fuselage, engine) in the forward holds. Dense coral and soft coral growth on superstructure. **However**: the iconic forward mast collapsed ~2018–2019 — a major symbolic loss. Bridge and upper deck structures progressively weakening. Penetration routes that were standard 10–15 years ago are now increasingly risky. Still magnificent but changing.
 
 #### Shinkoku Maru
+
 12–40m. Fleet oiler, 152m. Widely considered the best overall wreck — most intact superstructure, dense marine life colonization. The famous operating theatre (with medical equipment still in situ) is becoming more dangerous to access as surrounding structure weakens. Engine room penetration excellent. Gun on stern.
 
 #### San Francisco Maru
+
 50–64m. "The Million Dollar Wreck" — holds contain three Type 95 Ha-Go light tanks, naval mines (round, horned, unmistakable), shells, trucks, detonators. **Firmly technical territory** — trimix recommended. The tanks in the hold are among the most iconic underwater images from Chuuk.
 
 #### Yamagiri Maru
+
 15–34m. Transport, 133m. Hold #4 contains massive **18-inch (46cm) Type 91 armor-piercing shells** intended for the battleships Yamato and Musashi — each weighing ~1,460kg. Among the largest naval shells ever produced. An extraordinary sight.
 
 #### Heian Maru
+
 12–34m. Converted passenger liner / submarine tender, 155m — the **largest diveable wreck in the lagoon**. Rows of Type 95 submarine torpedoes (some with warheads) in the forward holds. The ship's enormous scale makes the holds feel cathedral-like. Name still legible on the stern.
 
 #### Nippo Maru
+
 24–48m. Water transport, 107m. A Type 95 Ha-Go light tank sits **on the deck** in the open (more photogenic than San Francisco Maru's hold tanks). Also contains howitzers, artillery shells, machine gun ammunition. Bridge telegraph still in position. One of the best penetration dives in the lagoon.
 
 #### Hoki Maru
+
 20–50m. Cargo vessel, 137m. "The truck wreck" — holds contain bulldozers, trucks (Ford chassis with recognizable grilles and steering columns), tractors, construction equipment. Believed destined for airfield construction.
 
 #### Rio de Janeiro Maru
+
 15–40m. Passenger-cargo submarine tender, 140m. Originally a luxury liner on the South America route. Enormous quantities of beer and sake bottles. One of the best engine rooms to penetrate in the lagoon — large, well-preserved triple-expansion steam engines.
 
 #### Sankisan Maru
+
 15–45m. Cargo vessel, 112m. Munitions cargo — aerial bombs and artillery shells neatly arranged in rows in the forward hold. Gun on the bow. Less visited — more solitary experience.
 
 #### Kensho Maru
+
 10–40m. Passenger-cargo, 120m. Bridge with telegraphs and binnacle intact. Good swim-throughs. Shallow upper areas make it a good second dive.
 
 ### Additional Notable Wrecks
 
 #### Gosei Maru
+
 12–38m. Compact (~80m), good for less experienced wreck divers. Mines, munitions, bottles.
 
 #### I-169 (submarine)
+
 38–45m. The only submarine wreck in the lagoon. Did not sink from air attack — ventilation valves failed during an emergency trim dive, flooding the boat. Entire crew of ~75 perished (trapped alive — rescue attempts failed). A true war grave. Intact, conning tower recognizable. No penetration possible or advisable.
 
 #### Fumizuki (destroyer)
+
 30–40m. Mutsuki-class, 97m. One of the few warship wrecks (most Chuuk wrecks are transports). Torpedo tubes and gun mounts visible.
 
 #### Betty Bomber
+
 ~15m. Intact Mitsubishi G4M bomber on sand. Wings and fuselage identifiable. Photogenic and accessible.
 
 #### Emily Flying Boat
+
 ~15m. Kawanishi H8K four-engine flying boat. Rare and historically significant. Fragmentary.
 
 #### Hanakawa Maru
+
 10–20m. Good checkout or night dive. Strong coral growth.
 
 #### Unkai Maru No. 6
+
 30–40m. Freighter, less visited but good condition.
 
 ### Artifacts Still Visible

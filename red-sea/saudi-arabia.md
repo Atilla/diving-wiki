@@ -42,9 +42,11 @@ Gulf of Aqaba continuation — same reef system as Dahab/Sharm but Saudi side. F
 The most established dive destination on the Saudi coast. Offshore reef systems reachable by day boat.
 
 #### Seven Sisters
+
 Cluster of coral pinnacles rising from sandy bottom, 8-25m. Dense hard coral growth, schooling fish, resident turtles. The closest thing Saudi Arabia has to a "classic" Red Sea reef dive.
 
 #### Abu Galawa
+
 Shallow reef plateau with coral gardens and swim-throughs, 5-18m. Good hard coral diversity, anemonefish, morays, nudibranchs.
 
 Topography: predominantly coral slopes and patch reefs rather than the sheer walls of the Egyptian offshore sites. Some pinnacle structures. No significant wreck diving.
@@ -52,9 +54,11 @@ Topography: predominantly coral slopes and patch reefs rather than the sheer wal
 ### Jeddah Area (central)
 
 #### Shib Nazar
+
 Large offshore reef system, walls and coral slopes, 5-30m+. Historically good hard coral cover. Accessible by day boat from Jeddah (~90 min).
 
 #### Farasan Banks (offshore)
+
 Vast submerged reef complex, the largest in the Red Sea. Remote — requires multi-day boat access. Coral coverage degraded by repeated bleaching (~30% live cover) but the sheer scale means extensive reef remains. Pelagic encounters (sharks, mantas) more likely here than inshore.
 
 ### Farasan Islands (far south, near Yemen border)

@@ -74,6 +74,7 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 ## Marine Life
 
 **Still excellent:**
+
 - **Minke whales (Jun-Jul, Ribbon Reefs)**: The only place in the world with reliable in-water encounters. Dwarf minke whales approach snorkelers voluntarily under permitted protocols.
 - Potato cod at Cod Hole — resident population stable
 - Shark aggregations at North Horn, Osprey Reef
@@ -84,6 +85,7 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 - Manta rays — seasonal at Lady Elliot Island (southern Great Barrier Reef) and some Ribbon Reef sites
 
 **Declining:**
+
 - Hard coral cover, especially branching Acropora — catastrophic losses on shallow reef flats
 - Some coral-dependent butterflyfish species declining
 - Giant clams reduced at heavily bleached sites

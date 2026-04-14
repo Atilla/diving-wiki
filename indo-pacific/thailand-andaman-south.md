@@ -41,12 +41,15 @@ Premier manta ray aggregation site: 118 individual oceanic mantas documented sin
 **Among the healthiest reefs in the region.** Sheltered lagoon with multiple numbered dive sites. Jan 2026 liveaboard report: "healthy coral structures" with turtles, reef sharks. Feb 2025 WAD trip report noted soft corals had suffered from the 2024 heat wave but showed signs of regrowth. Visibility up to 30m.
 
 #### Koh Haa no.3 (Corner Lagoon)
+
 Leopard sharks at depth, vibrant soft corals in red, purple, and orange, nudibranchs (mosaic halgerda, twin chromodoris).
 
 #### Koh Haa no.5 (Cathedral)
+
 Interconnected caverns with resident giant grouper. Strong macro: harlequin shrimps, ghost pipefish.
 
 #### Koh Haa no.1 (Chimney)
+
 Narrow vertical tunnel requiring impeccable buoyancy. Decorated walls.
 
 ### Koh Lipe / Tarutao National Marine Park
@@ -72,9 +75,11 @@ Bleaching affected shallow areas in 2024, but 60%+ recovered by early 2025. Rapi
 Conservation success — 50% of replanted coral surviving and growing, blacktip reef shark population rebounded from zero to ~60 individuals.
 
 #### Koh Bida Nok & Koh Bida Nai
+
 Blacktip sharks, tiger-tail seahorse, harlequin ghost pipefish, clouds of yellow snapper, gorgonians and harp corals. Described as "absolute must-dives from Koh Lanta" (WAD, Feb 2025).
 
 #### Hin Bida
+
 Leopard sharks "almost guaranteed" — resting on sandy bottom (WAD, Feb 2025). Scorpionfish, dense schools of snappers. Dentex hunting around the pinnacle.
 
 ### Koh Rok

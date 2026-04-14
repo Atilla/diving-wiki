@@ -37,46 +37,59 @@ highlights:
 ### The Battleships
 
 #### SMS Markgraf
+
 25–45m. Konig-class dreadnought (175m). Capsized (inverted). The best preserved of the three — hull largely intact, propellers and rudders visible on the upturned keel. 12-inch gun turrets fell out during capsizing and lie on the seabed beneath. Anti-torpedo nets still visible. The sheer scale of the inverted hull is awe-inspiring. Multiple dives needed. Nitrox or trimix recommended.
 
 #### SMS Konig
+
 20–40m. Konig-class (lead ship). Lies on her starboard side, partially capsized. More deteriorated than Markgraf — hull collapsed in several areas, bow relatively intact. Some superstructure accessible. In the worst structural condition of the three — ongoing concern.
 
 #### SMS Kronprinz Wilhelm
+
 12–40m. Konig-class. Capsized (inverted). The shallowest of the three — some areas reachable on advanced recreational certifications. Propellers and shafts visible. Most accessible battleship for less experienced divers (on the upper hull).
 
 ### The Light Cruisers
 
 #### SMS Brummer
+
 22–36m. Brummer-class minelayer (140m). Lies on her starboard side. **Often cited as the best dive at Scapa Flow.** Remarkably well preserved — stern with mine rails, 15cm guns intact, helm and binnacle noted. Good penetration into bridge, engine room, and compartments. Marine life abundant.
 
 #### SMS Karlsruhe
+
 14–26m. Konigsberg II-class (151m). Lies on her starboard side. One of the more intact cruisers, and the shallowest — popular and accessible. 15cm guns visible, engine room penetrable. Good for divers transitioning from recreational to technical.
 
 #### SMS Coln
+
 22–36m. Coln-class (155m). Capsized (inverted). Upturned hull forms a dramatic wall. Propellers visible. Limited penetration due to capsized position.
 
 #### SMS Dresden
+
 22–38m. Coln-class (155m). Capsized (inverted). Similar to Coln. Often dived together.
 
 ### Blockships & Shallow Wrecks
 
 #### Burra Sound blockships (Tabarka, Gobernador Bories, Doyle, others)
+
 5–16m. Heavily broken up but prolific marine life. Ideal for checkout dives, night dives, photography. Shore access at some.
 
 #### Churchill Barriers blockships
+
 Numerous vessels sunk alongside the causeways built after the Royal Oak sinking. 5–15m. Encrusted with anemones, crabs, lobsters, nudibranchs. Accessible from shore.
 
 #### Destroyer remnants (V83, S54, others)
+
 10–20m. Partially salvaged, useful for warm-up dives.
 
 #### UB-116
+
 WWI U-boat destroyed by mines while attempting to enter Scapa Flow (Oct 1918). ~24m in Hoxa Sound. Tidal area.
 
 ### HMS Royal Oak — War Grave (NOT DIVEABLE)
+
 Torpedoed on October 14, 1939, by U-47. 835 killed. **Designated war grave — diving is prohibited** under the Protection of Military Remains Act 1986. The Royal Navy conducts an annual memorial ceremony. Violation carries unlimited fine and/or imprisonment.
 
 ### HMS Vanguard — War Grave (NOT DIVEABLE)
+
 St Vincent-class dreadnought, destroyed by internal magazine explosion July 9, 1917. 843 of 845 crew killed. ~34m. Diving prohibited.
 
 ## Marine Life

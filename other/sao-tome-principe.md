@@ -36,12 +36,15 @@ highlights:
 UNESCO Biosphere Reserve (2012). Cleaner water, more intact marine habitats, better fish biomass than Sao Tome.
 
 #### Ilheu Bom Bom
+
 Most famous dive area — volcanic rock formations, good fish life, occasional pelagics.
 
 #### Pedra Gale
+
 Rocky pinnacle with fish aggregations and pelagic potential.
 
 #### Tinhosas Islands
+
 Offshore seabird nesting site with potentially the best diving in the archipelago — large fish schools, sharks, pelagics. But difficult to access (weather-dependent, distance offshore).
 
 Biosphere Reserve marine zones designated but enforcement minimal.
@@ -51,6 +54,7 @@ Biosphere Reserve marine zones designated but enforcement minimal.
 More dive infrastructure (larger island, capital city) but more impacted coastal waters. Southern and western coasts less affected by river runoff.
 
 #### Ilheu das Rolas
+
 Small island straddling the equator. Dive sites around the islet. Equator crossing as novelty.
 
 ## Marine Life

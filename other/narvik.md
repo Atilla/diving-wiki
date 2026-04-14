@@ -35,37 +35,47 @@ highlights:
 ### Recreational depth (the accessible ones)
 
 #### Georg Thiele (Z2)
+
 2–30m. Rombaksfjorden (inner branch). Beached/scuttled at the head of the fjord. Broken up but substantial remains — bow section in shallow water, hull sections, guns. **The most-dived Narvik wreck** and the best starting point.
 
 #### Bernd von Arnim (Z11)
+
 5–25m. Rombaksfjorden, near Georg Thiele. Broken up, scattered wreckage. Recreational depth. Combined with Georg Thiele for a Rombaksfjorden dive day.
 
 #### HMS Hardy
+
 10–30m. British destroyer, Ofotfjorden near Ballangen. Broken up but diveable.
 
 ### Mixed depth (recreational upper / technical lower)
 
 #### Hermann Kunne (Z19)
+
 15–90m+. Herjangsfjorden. Lies on a slope — upper portions accessible at recreational depth, main hull in technical territory. Largely intact in the deeper sections.
 
 #### Hans Ludemann (Z18)
+
 Rombaksfjorden. Some portions at recreational depth, main wreck deeper.
 
 ### Technical depth only (40m+)
 
 #### Diether von Roeder (Z17)
+
 40–90m+. Narvik harbour area. Sections intact.
 
 #### Erich Giese (Z12)
+
 50–80m+. Ofotfjorden near Bjerkvik. Relatively intact.
 
 #### Wilhelm Heidkamp (Z21)
+
 50m+. Narvik harbour. Deep.
 
 #### Wolfgang Zenker (Z9), Erich Koellner (Z13), Anton Schmitt (Z22)
+
 Various deep locations (60m+). Rarely dived.
 
 #### HMS Hunter
+
 90m+. Deep Ofotfjorden. Essentially unreachable for recreational diving.
 
 ## Dive Conditions

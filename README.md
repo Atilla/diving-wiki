@@ -15,6 +15,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 ## Destinations by Region
 
 ### Red Sea
+
 - [Northern Egypt](red-sea/northern-egypt.md) — Gulf of Aqaba, Sharm, Hurghada, Ras Mohammed, Dahab
 - [BDE Circuit](red-sea/bde-circuit.md) — Brothers, Daedalus, Elphinstone
 - [Southern Egypt](red-sea/southern-egypt.md) — Marsa Alam, Fury Shoals, St. Johns, Deep South
@@ -23,6 +24,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Saudi Arabia](red-sea/saudi-arabia.md) — Yanbu, Jeddah, NEOM
 
 ### Indo-Pacific
+
 - [Maldives](indo-pacific/maldives.md) — Central/North degraded, South resilient, Fuvahmulah
 - [Thailand — Gulf](indo-pacific/thailand-gulf.md) — Koh Tao, Sail Rock, Chumphon
 - [Thailand — Andaman North](indo-pacific/thailand-andaman-north.md) — Similans, Richelieu Rock, Surin
@@ -37,6 +39,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Ishigaki / Yaeyama & Yonaguni](indo-pacific/japan-yaeyama.md) — Year-round mantas, Yonaguni hammerheads
 
 #### Indonesia
+
 - [Raja Ampat](indo-pacific/indonesia/raja-ampat.md) — World's best coral triangle
 - [Komodo](indo-pacific/indonesia/komodo.md) — Upwelling-protected reefs
 - [Banda Sea](indo-pacific/indonesia/banda-sea.md) — Pristine & remote
@@ -51,6 +54,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Togean Islands](indo-pacific/indonesia/togean-islands.md) — Ancient reefs, expedition-level access
 
 ### Caribbean & Atlantic
+
 - [Jardines de la Reina, Cuba](caribbean/jardines-cuba.md) — Inaccessible 2026-2027
 - [Belize](caribbean/belize.md) — Lighthouse Reef, Blue Hole
 - [Bonaire / Saba / Curacao](caribbean/bonaire-saba-curacao.md) — Shore diving capital
@@ -61,6 +65,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Fernando de Noronha](caribbean/fernando-de-noronha.md) — Spinner dolphins, Brazil
 
 ### Eastern Pacific
+
 - [Galapagos](eastern-pacific/galapagos.md) — Megafauna paradise
 - [Socorro](eastern-pacific/socorro.md) — Giant mantas & sharks
 - [Cocos Island](eastern-pacific/cocos-island.md) — Hammerhead schools
@@ -69,6 +74,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Hammerhead Triangle](eastern-pacific/hammerhead-triangle.md) — Eastern Tropical Pacific corridor
 
 ### Pacific
+
 - [French Polynesia — Tuamotus](pacific/french-polynesia-tuamotus.md) — 700+ grey reef sharks
 - [Solomon Islands](pacific/solomon-islands.md) — WWII wrecks + pristine reefs
 - [Chuuk Lagoon](pacific/chuuk-lagoon.md) — World's #1 wreck diving
@@ -77,6 +83,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Niue](pacific/niue.md) — Legendary visibility
 
 ### Indian Ocean
+
 - [Mozambique](indian-ocean/mozambique.md) — Dugongs, shark diving
 - [Seychelles](indian-ocean/seychelles.md) — Outer atolls, adaptation evidence
 - [Oman](indian-ocean/oman.md) — Upwelling-protected (not viable Apr 2026)
@@ -89,6 +96,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Timor-Leste](indian-ocean/timor-leste.md) — World-record fish biodiversity
 
 ### Other
+
 - [Sao Tome & Principe](other/sao-tome-principe.md) — Eastern Atlantic biogeography
 - [Azores](other/azores.md) — Blue sharks + mobula rays
 - [Malta & Gozo](other/malta-gozo.md) — Mediterranean wreck diving

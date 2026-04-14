@@ -1,6 +1,7 @@
 # Master Ranking for Liveaboard Planning
 
 ## Tier 1: Go Now — Exceptional & Resilient
+
 | Destination | Why | Coral | Marine Life | Season | Access | Notes |
 |---|---|---|---|---|---|---|
 | **Raja Ampat** | World's best coral triangle | Good (recovering) | World-class | Oct–Apr | Fly Sorong via Jakarta | Unmatched fish diversity; 80–90% manta reliability in season; MPA network + shark sanctuary |
@@ -15,6 +16,7 @@
 | **Bunaken National Park** | World-class wall diving + turtles | Good | Excellent | Year-round (best May–Oct) | Fly Manado, boat 15–45 min | Sheer walls to 300m+; 30-40 turtles per dive; pygmy seahorses, mandarin fish; combine with Lembeh + Bangka; no liveaboard — resort-based |
 
 ## Tier 2: Very Good — Some Caveats
+
 | Destination | Why | Coral | Marine Life | Season | Access | Notes |
 |---|---|---|---|---|---|---|
 | **N. Egypt / Gulf of Aqaba** | Supercorals recovered | Good-VG (60–80% at Ras Mohammed) | Very Good | Oct–May | Fly Sharm/Hurghada | Best Red Sea coral; Abu Nuhas wrecks; Tiran hammerheads; world-class chamber infrastructure |
@@ -34,6 +36,7 @@
 | **Lembeh Strait** | World's #1 muck diving | N/A (muck habitat) | World-class macro | Year-round | Fly Manado, drive to Bitung | Not a liveaboard — but essential reference; best critter spotting guides on Earth; combine with Bunaken for muck + reef |
 
 ## Tier 3: Worth It for Specific Reasons Despite Coral Damage
+
 | Destination | Why | Coral | Marine Life | Season | Access | Notes |
 |---|---|---|---|---|---|---|
 | **Maldives (south atolls)** | Southern resilience + Fuvahmulah | Moderate (south better) | Excellent pelagic | Dec–Apr (viz); Aug–Oct (Hanifaru mantas) | Fly Male | 5,000+ ID'd mantas; Fuvahmulah tigers near-daily; Hanifaru 100+ mantas feeding; central atolls devastated |
@@ -63,6 +66,7 @@
 | **Scapa Flow (Orkney)** | Only WWI dreadnoughts on Earth | N/A (cold water) | Good (cold-water) | Jun–Oct (best Jul–Sep) | Fly Kirkwall or ferry from Scottish mainland | 3 battleships + 4 cruisers (Scheduled Monuments); MV Halton liveaboard; drysuit essential; 5–15m viz; tide-dependent; wrecks deteriorating — go sooner; HMS Royal Oak war grave (no diving) |
 
 ## Tier 4: Seriously Compromised for Coral — Go Only for Non-Coral Reasons
+
 | Destination | Why | Coral | Marine Life | Season | Access | Notes |
 |---|---|---|---|---|---|---|
 | **Great Barrier Reef** | 6 bleaching events since 2016 | Severely degraded | Good | Jun–Nov (minke whales Jun–Jul) | Fly Cairns | Minke whales: only reliable in-water encounters globally; Coral Sea (Osprey Reef) 40m+ viz; Cod Hole; SS Yongala top-5 wreck |
@@ -74,6 +78,7 @@
 | **Peninsular Malaysia (Perhentian/Tioman/Redang)** | 20% coral loss since 2022, bleaching at 90% sites | Poor-Moderate (declining, ~40% national avg) | Moderate (turtles good) | Mar–Oct (monsoon closes Nov–Feb) | Fly KL/Kuala Terengganu | Pleasant, affordable, not destination-grade; Tioman most developed; Perhentian budget-friendly; blast damage legacy; marine parks but enforcement variable |
 
 ## Tier 5: Frontier / Expedition Only
+
 | Destination | Why | Coral | Marine Life | Season | Access | Notes |
 |---|---|---|---|---|---|---|
 | **Sao Tome & Principe** | Volcanic rocky reefs, not coral | N/A (volcanic) | Moderate (turtles, whales seasonal) | Jun–Sep or Dec–Mar | Fly via Lisbon | No chamber; PADI centers with nitrox on Sao Tome; Principe has no dive ops; unique Eastern Atlantic biogeography |
@@ -89,6 +94,7 @@
 | **Narvik (Norway)** | WWII destroyers in Arctic fjords | N/A (wreck destination) | Good (cold-water) | Jun–Sep (midnight sun) | Fly Evenes (EVE) from Oslo | 10 German destroyers + HMS Hardy; Georg Thiele in 2–30m; no commercial operators — arrange via dive club; drysuit + cold-water gear; combine with Lofoten |
 
 ## Not Currently Viable
+
 | Destination | Why |
 |---|---|
 | **Sudan** | Civil war since April 2023 — all liveaboard operations suspended |

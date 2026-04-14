@@ -37,32 +37,41 @@ highlights:
 ### Fury Shoals
 
 #### Shaab Claudio
+
 5–18m. Coral garden with intricate hard coral formations and swim-throughs. Green turtles, moray eels, prolific macro (nudibranchs, flatworms).
 
 #### Abu Galawa
+
 16–18m. Small tug wreck beside a coral-filled lagoon. Photogenic combination of intact hard corals and wreckage. Turtles resident.
 
 #### Shaab Maksur
+
 10–30m. Wall and drift dive. Large gorgonian fans, barracuda schools, occasional grey reef sharks on the outer wall. Strong currents possible.
 
 ### St. Johns
 
 #### Habili Ali
+
 Offshore pinnacle rising from 400m+ to within 4m of surface. Walls drop vertically; hammerheads and oceanic whitetips at depth (25–40m). Strong currents — advanced site.
 
 #### Dangerous Reef
+
 8–20m. Shallow plateau with dense hard coral cover and resident whitetip reef sharks. Large Napoleon wrasse, giant trevally.
 
 #### Gota Kebir
+
 North and south sites. North: cave/overhang system at 12–22m, soft coral encrusted. South: wall dive with pelagic action. Dolphins frequent both.
 
 #### Umm Arouk
+
 5–25m. Sheltered, pristine hard coral garden. Excellent night dive — lionfish, octopus, Spanish dancers.
 
 ### Elphinstone (southern approach)
+
 North and south plateaus at 25–35m; sheer walls with soft coral. Oceanic whitetip sharks are the signature encounter (especially Oct–Dec). Strong currents and open-water conditions. Southern liveaboards typically visit en route.
 
 ### Sataya / Dolphin Reef
+
 Large horseshoe reef enclosing a sandy lagoon (5–14m). Resident pod of 60–80 spinner dolphins. Snorkeling and freediving encounters; peripheral reef wall diving to 20m.
 
 ## Dive Conditions

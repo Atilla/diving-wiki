@@ -25,6 +25,7 @@ highlights:
 # Timor-Leste / Atauro Island
 
 ## Status
+
 **FRONTIER — world-record fish biodiversity; emerging destination with basic infrastructure**
 
 - Timor-Leste (independent since 2002) is one of Southeast Asia's newest and least-developed nations. Its north coast faces the deep Ombai Strait (3,000m+), creating conditions for nutrient upwelling and steep reef drop-offs very close to shore.
@@ -33,11 +34,13 @@ highlights:
 - Reef condition generally excellent to pristine — low population pressure, minimal industrial fishing, deep oceanic water influence.
 
 ## Key Dive Sites
+
 - **Atauro Island**: World-record fish biodiversity. Steep walls into 3,000m strait.
 - **Dili area**: Accessible shore and boat diving.
 - **Northern coast**: Whale migration corridor.
 
 ## Marine Life
+
 - **Fish biodiversity**: 253 species per dive site average (642 total) — world record.
 - **Whales**: Blue whale and sperm whale migration Oct-Nov along north coast.
 - **Dugongs**: Reported.
@@ -45,14 +48,17 @@ highlights:
 - **Reef condition**: Generally excellent to pristine.
 
 ## Dive Conditions
+
 - **Temperature:** 26–29C year-round. Deep upwelling can bring cooler thermoclines. 3mm sufficient.
 - **Visibility**: 15-40m year-round, even during rainy season.
 
 ## Season
+
 - **Best**: September–May (avoid rougher wet season Jun–Aug).
 - **Blue/sperm whale migration:** Oct–Nov along north coast.
 
 ## Practical Info
+
 - **Access**: Flights to Dili from Bali/Denpasar, Darwin, Singapore. Ferry or speedboat to Atauro (~1 hour).
 - **Operators**: Atauro Dive Resort (PADI, beachfront bungalows from $50/night with meals), Compass Diving (PADI 5-Star), Dive Timor Lorosae. The **Oriental Siren** liveaboard runs 10-night cruises Aug–Nov covering Dili, Atauro, and the northern coast.
 - **Costs**: Very affordable — resort + diving packages excellent value by global standards.
@@ -61,6 +67,7 @@ highlights:
 - **For the right diver**: World-class biodiversity at a fraction of the cost of comparable destinations. The infrastructure trade-off is real — but Timor-Leste offers a genuine frontier experience with scientific credentials that rival anywhere on Earth.
 
 ## Related Destinations
+
 - [Alor](../indo-pacific/indonesia/alor.md) — nearest established dive destination; Lesser Sunda neighbor
 - [Niue](../pacific/niue.md) — comparable frontier destination with scientific credibility
 - [Raja Ampat](../indo-pacific/indonesia/raja-ampat.md) — Coral Triangle biodiversity comparison (Timor-Leste holds per-site record)

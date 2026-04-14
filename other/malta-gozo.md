@@ -37,65 +37,85 @@ highlights:
 ### Malta Wrecks
 
 #### Um El Faroud
+
 18–36m. Libyan oil tanker (115m), scuttled 1998 as artificial reef after a drydock explosion. Upright, largely intact — one of the largest diveable wrecks in the Mediterranean. Hull cracked amidships in a storm (~2005), splitting into two sections, but both remain upright and diveable. Bridge and internal areas penetrable. Schools of amberjack and barracuda. The flagship Malta wreck. Advanced OW for upper sections; full penetration is technical.
 
 #### P-29
+
 18–36m. East German-built Kondor I-class patrol boat (52m), sold by German Navy 1997, scuttled 2005 at Cirkewwa. Upright, intact, good penetration through corridors and compartments. Mast and bridge photogenic. Combined with the adjacent Rozi for a two-wreck dive. Accessible to OW/AOW divers. (Note: often confused with its sister ship P-31, which sits at 18m off Comino.)
 
 #### Rozi Tugboat
+
 33–36m. Tugboat (~40m), scuttled 1992. Intact, upright, wheelhouse penetrable. Covered in marine growth. One of Malta's most-dived wrecks. Combined with P-29 at Cirkewwa.
 
 #### HMS Maori
+
 14–16m. Tribal-class Royal Navy destroyer (~115m), sunk by Luftwaffe bombing in Grand Harbour on February 12, 1942. Largely broken up — hull sections, bow area, scattered debris (partially salvaged post-war). Genuine WWII combat casualty. Very accessible shallow dive. Historical significance is the draw.
 
 #### Bristol Beaufighter
+
 ~38m. WWII twin-engine fighter-bomber, crashed/ditched during the Siege of Malta. Both engines and propellers identifiable. One of only a few diveable Beaufighters worldwide. Technical dive.
 
 #### Blenheim Bomber
+
 ~42m. WWII light bomber, crashed/ditched. Engines, undercarriage, wing sections identifiable. Another rare WWII aircraft wreck. Technical dive.
 
 #### MV Imperial Eagle
+
 30–42m. Former Malta-Gozo ferry (~45m), scuttled 1999. Upright, intact, penetrable. Nearby statue of Christ placed alongside.
 
 #### HMS Stubborn
+
 ~56m. Royal Navy S-class submarine (~66m), scuttled 1946 post-war. Largely intact hull, conning tower hatch open. Firmly technical territory — trimix recommended.
 
 #### Tugboat St. Michael
+
 15–24m. Small tugboat (~26m), scuttled 1998. Intact, shallow, good for training.
 
 ### Gozo Wrecks & Sites
 
 ### Xatt l-Ahmar wreck complex
+
 Three ferries scuttled on the same day (August 12, 2006), all within swimming distance:
 
 #### MV Karwela
+
 20–40m. Former passenger ferry (~50m). Upright, intact, excellent penetration — multiple decks, stairways, engine room. The largest and most impressive of the three. Maturing marine colonization.
 
 #### MV Cominoland
+
 20–43m. Former Gozo/Comino ferry (~37m). Upright, intact, penetrable. Can be combined with Karwela on a single dive.
 
 #### MV Xlendi
+
 30–42m. Former Gozo Channel ferry (~40m). Upright, intact. The deepest of the three.
 
 ### Dwejra complex
+
 Arguably Mediterranean diving's single best area:
 
 #### Blue Hole
+
 A natural limestone chimney (~10m diameter at surface) dropping to ~15m where it opens through an arch to the open sea. The arch leads to a wall dropping past 60m. Spectacular light effects looking up from inside the chimney. Shore entry. OW inside the hole; technical on the deep wall outside.
 
 #### Inland Sea
+
 A shallow inland lagoon connected to the open sea through an ~80m tunnel in the cliff. Divers swim through the tunnel and emerge on the outer wall. Wide enough for comfortable passage (not restrictive). Unique, atmospheric experience.
 
 #### Azure Window collapse site
+
 The iconic limestone arch collapsed March 8, 2017. The rubble field (5–20m) is being colonized by marine life and has become a nudibranch hotspot, evolving into a significant dive site in its own right. Accessed from Blue Hole or Inland Sea exits.
 
 ### Other Gozo sites
+
 Billinghurst Cave (30–40m, true cave — cave cert required), Cathedral Cave (large cavern with light effects), Reqqa Point (wall to 50m+), Mgarr ix-Xini (easy entry, seahorses reported, flying gurnards, cuttlefish).
 
 #### Double Arch (Xwejni)
+
 30–36m. Two overlapping natural arches — rare geological formation. Orange sponges and anemones on ceiling, red scorpionfish. Advanced navigation required; 15-min surface swim to reach entry point.
 
 #### Xlendi Tunnel
+
 5–11m. Easy tunnel dive with dramatic light effects in morning. Nudibranch hotspot. Ideal backup site or training dive.
 
 ## Marine Life

@@ -25,6 +25,7 @@ highlights:
 # Bahamas
 
 ## Status
+
 **SEVERE bleaching, but shark diving unaffected**
 
 - Bleaching across entire archipelago. Elkhorn/staghorn corals suffered mortality. Shallow reef frameworks degraded throughout the island chain. However, the Bahamas' core draw — pelagic shark encounters and blue holes — is water-column diving largely independent of coral health.
@@ -32,21 +33,27 @@ highlights:
 ## Key Dive Sites
 
 #### Tiger Beach (Grand Bahama)
+
 Sandy plateau at 6–12m, ~45 minutes offshore by boat. The world's most reliable site for close encounters with tiger sharks. Operators set up on the sand; divers kneel while bait brings tigers in to within arm's length. Typically 4–8 tigers per dive, individuals reaching 3–4m. Lemon sharks (dozens), Caribbean reef sharks, and nurse sharks also present. No coral dependency — pure open-sand megafauna experience.
 
 #### Bimini
+
 Bull shark dives run Dec–Mar on shallow sand flats (8–15m). Operators use controlled bait boxes; 5–15 bulls per dive typical. Great hammerheads appear Dec–Feb, with peak encounters in January — individuals up to 4.5m. Bimini is also known for wild Atlantic spotted dolphin encounters on the shallow Bahama Bank (~7m), run as snorkel/freedive excursions.
 
 #### Exuma Cays Land and Sea Park
+
 Protected marine park since 1959. Shark feed dives at Amberjack Reef and Compass Cay draw Caribbean reef sharks (20–40 per feed) and Nassau groupers. Blue holes scattered throughout the cays. The famous swimming pigs at Big Major Cay are a surface attraction, not a dive site. Coral condition in the park is poor post-bleaching but structurally intact.
 
 #### Andros
+
 Home to the world's third-largest barrier reef and an extensive inland blue hole system (over 175 mapped blue holes — the largest concentration globally). The Tongue of the Ocean wall drops from 20m to 1,800m. Wall diving features black coral, sponges, and deep-water gorgonians. Inland blue holes offer unique halocline and speleothem formations for technical divers.
 
 #### Cat Island
+
 Oceanic blue holes offshore, dramatic wall diving on the leeward side dropping from 12m to 600m+. Oceanic whitetip sharks reported seasonally (Apr–Jun) in open water off the island, though encounters are not as reliable as dedicated oceanic whitetip sites (e.g., Red Sea).
 
 #### Long Island
+
 Dean's Blue Hole — 202m deep, the deepest known saltwater blue hole in the world. A vertical shaft opening from a sheltered bay. Primarily a freediving competition venue, but scuba access to the upper portions (to ~40m) reveals dramatic overhangs and cavern formations. Nearby Conception Island wall diving is largely unexplored and pristine.
 
 ## Marine Life
@@ -65,6 +72,7 @@ Dean's Blue Hole — 202m deep, the deepest known saltwater blue hole in the wor
 - **Currents**: Mild at Tiger Beach and Bimini sand sites. Moderate to strong on walls and in channels between islands.
 
 ## Season
+
 - **Tiger sharks**: Tiger Beach year-round, peak Oct-Jan.
 - **Bull sharks and hammerheads**: Bimini Dec-Mar, peak Jan.
 - **Oceanic whitetips**: Cat Island Apr-Jun (weather-dependent).

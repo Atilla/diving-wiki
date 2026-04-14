@@ -25,6 +25,7 @@ highlights:
 # Fernando de Noronha
 
 ## Status
+
 **GOOD — UNESCO-protected, strict visitor caps, excellent for the South Atlantic**
 
 - A volcanic archipelago 350 km off Brazil's northeast coast. UNESCO World Heritage Site with strict daily visitor limits (~460 people on the island at any time).
@@ -33,19 +34,23 @@ highlights:
 - Heavily regulated: daily environmental preservation tax (escalating with length of stay, ~R$90–100/day), separate marine park fee, some dive sites require permits.
 
 ## Key Dive Sites
+
 - ~20 dive sites around the archipelago, accessed by day boats.
 - Rocky volcanic reef ecosystem with sponges, gorgonians, and brain corals.
 
 ## Marine Life
+
 - **Spinner dolphins**: 1,000+ resident individuals in the Baia dos Golfinhos. Year-round.
 - **Turtles**: Green and hawksbill abundant. Nesting Dec-Jun (green turtles). Hawksbill common underwater year-round.
 - **South Atlantic endemics**: unique biogeographic position.
 
 ## Dive Conditions
+
 - **Visibility**: 20-40m typically, occasionally 50m. Peak clarity Sep-Oct.
 - **Temperature**: 26-29C year-round. Rashguard or 3mm sufficient.
 
 ## Season
+
 - **Temperature:** 26–29C year-round. Coolest Aug–Sep (~26.5C), warmest Mar–May (~28.5C). Rashguard or 3mm sufficient.
 - **Best visibility:** Aug–Nov (25–45m, occasionally 50m). Peak clarity Sep–Oct.
 - **Calmest diving:** Mar–Jul — both Inner and Outer Sea sides accessible, predictable conditions.
@@ -56,6 +61,7 @@ highlights:
 - **Turtle nesting:** Dec–Jun (green turtles). Hawksbill turtles common underwater year-round.
 
 ## Practical Info
+
 - **Operators**: Aguas Claras, Noronha Divers. No liveaboard options.
 - **Access**: Flights from Recife (1h15m) or Natal (1h). Book well in advance.
 - **Not a liveaboard destination** but worth noting for any serious Atlantic dive planning.

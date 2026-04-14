@@ -36,17 +36,21 @@ highlights:
 ### Socorro Island
 
 #### Cabo Pearce
+
 15–40m along reef shelf, dropping to 1,000m+. The signature site for giant oceanic manta encounters — mantas cruise cleaning stations along the ridge. Strong currents, drift dive. Hammerheads, Galapagos sharks, whitetip reef sharks, occasional whale sharks. Volcanic boulder fields with scattered hard coral.
 
 #### Punta Tosca
+
 5–30m+, sloping volcanic wall. The most reliable site for "friendly manta" behavior — mantas actively seek diver interaction, hovering overhead for bubble contact for minutes at a time. Lower current than Cabo Pearce. Whitetip reef shark aggregations in sandy channels. Bottlenose dolphin encounters.
 
 ### San Benedicto Island
 
 #### The Boiler
+
 3–30m+. Submerged volcanic pinnacle — widely considered the archipelago's premier site. Mantas circle the pinnacle reliably; 4–8 individuals per dive on good days. Galapagos sharks, silky sharks, large schools of jacks resident. Summit has encrusting sponges and hydroids rather than coral. Surge can be significant in shallows.
 
 #### The Canyon
+
 12–25m. Sheltered leeward site, volcanic ridges forming a channel. Calmer conditions — good check-dive or night-dive location. Whitetip reef sharks, green morays, large lobsters, occasional mantas.
 
 ### Roca Partida
