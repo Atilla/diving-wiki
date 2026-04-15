@@ -7,7 +7,7 @@ tier: ~
 coral_rating: ~
 marine_life_rating: ~
 best_season: ~
-peak_months: []
+peak_months: ~
 access: "Inaccessible"
 liveaboard: false
 liveaboard_season: ~

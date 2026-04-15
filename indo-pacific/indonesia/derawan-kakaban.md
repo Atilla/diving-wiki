@@ -4,7 +4,7 @@ region: Indo-Pacific
 sub_region: Indonesia
 status: "MIXED — unique experiences, reef quality variable"
 tier: 5
-coral_rating: "Mixed"
+coral_rating: "Poor-Moderate"
 marine_life_rating: "Good"
 best_season: Apr-Oct
 peak_months: [Apr, May, Jun, Jul, Aug, Sep, Oct]

@@ -1,12 +1,12 @@
 ---
 destination: Socorro / Revillagigedo
 region: Eastern Pacific
-sub_region: ~
+sub_region: Mexico
 status: "EXCEPTIONAL — coral bleaching essentially irrelevant"
 tier: 1
 coral_rating: "N/A (volcanic)"
 marine_life_rating: Exceptional
-best_season: November-May
+best_season: Nov-May
 peak_months: [Jan, Feb, Mar]
 access: Cabo San Lucas
 liveaboard: true

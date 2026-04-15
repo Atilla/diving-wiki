@@ -4,7 +4,7 @@ region: Indian Ocean
 sub_region: Timor-Leste
 status: "FRONTIER — world-record fish biodiversity; emerging destination with basic infrastructure"
 tier: 5
-coral_rating: "Excellent-Pristine"
+coral_rating: "Excellent"
 marine_life_rating: "Extraordinary diversity"
 best_season: Sep-May
 peak_months: [Sep, Oct, Nov, Dec, Jan, Feb, Mar, Apr, May]

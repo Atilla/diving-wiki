@@ -1,7 +1,7 @@
 ---
 destination: Vanuatu
 region: Pacific
-sub_region: ~
+sub_region: Vanuatu
 status: "Wreck diving world-class (President Coolidge); reef diving secondary"
 tier: 3
 coral_rating: "Moderate"

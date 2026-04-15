@@ -6,7 +6,7 @@ status: "Offshore location provides resilience"
 tier: 1
 coral_rating: "Moderate (resilient offshore)"
 marine_life_rating: "Extraordinary"
-best_season: "June-November"
+best_season: Jun-Nov
 peak_months: [Jun, Jul, Aug, Sep, Oct, Nov]
 access: "Puntarenas, 30-36hr transit"
 liveaboard: true

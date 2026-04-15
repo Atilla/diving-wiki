@@ -6,7 +6,7 @@ status: "World-class for sharks — the third point of the Hammerhead Triangle"
 tier: 1
 coral_rating: "Minimal (not coral destination)"
 marine_life_rating: "Extraordinary"
-best_season: "January-May (sharks shallow); May-November (whale sharks)"
+best_season: "Jan-May (sharks shallow); May-Nov (whale sharks)"
 peak_months: [Jan, Feb, Mar, Apr, May]
 access: "Buenaventura, 30-36hr transit"
 liveaboard: true

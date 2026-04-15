@@ -1,7 +1,7 @@
 ---
 destination: Niue
 region: Pacific
-sub_region: ~
+sub_region: Niue
 status: "Frontier — legendary visibility, sea snakes, humpback whales; tiny dive scene"
 tier: 5
 coral_rating: "N/A (raised atoll)"

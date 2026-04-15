@@ -4,7 +4,7 @@ region: Indian Ocean
 sub_region: Mauritius
 status: "FAIR TO POOR — pleasant but not a serious dive destination; Wakashio legacy"
 tier: 4
-coral_rating: "Fair-Poor (declining)"
+coral_rating: "Poor (declining)"
 marine_life_rating: "Moderate (depleted fish)"
 best_season: Year-round (whales Jun-Nov)
 peak_months: [Oct, Nov, Dec, Mar, Apr]

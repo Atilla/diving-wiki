@@ -4,7 +4,7 @@ region: Indo-Pacific
 sub_region: Australia
 status: "Severely degraded — in genuine crisis"
 tier: 4
-coral_rating: Severely degraded
+coral_rating: "Very Poor"
 marine_life_rating: Good
 best_season: Jun-Nov (minke whales Jun-Jul)
 peak_months: [Jun, Jul]

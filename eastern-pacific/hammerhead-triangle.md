@@ -4,7 +4,7 @@ region: Eastern Pacific
 sub_region: Eastern Tropical Pacific Shark Corridor
 status: "World's premier hammerhead diving — three connected sites"
 tier: 1
-coral_rating: ~
+coral_rating: "N/A (cross-destination concept file)"
 marine_life_rating: "Extraordinary"
 best_season: "Varies by destination (see table)"
 peak_months: [Jun, Jul, Aug, Sep, Oct, Nov]

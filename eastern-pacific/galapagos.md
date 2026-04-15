@@ -1,12 +1,12 @@
 ---
 destination: Galapagos
 region: Eastern Pacific
-sub_region: ~
+sub_region: Ecuador
 status: "WORLD-CLASS for megafauna; coral increasingly threatened"
 tier: 1
-coral_rating: "Variable — projections alarming"
+coral_rating: "Moderate (variable; projections alarming)"
 marine_life_rating: Extraordinary
-best_season: June-November (Darwin/Wolf peak)
+best_season: Jun-Nov (Darwin/Wolf peak)
 peak_months: [Jun, Jul, Aug, Sep, Oct, Nov]
 access: Fly Baltra/San Cristobal
 liveaboard: true

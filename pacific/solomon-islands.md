@@ -1,7 +1,7 @@
 ---
 destination: Solomon Islands
 region: Pacific
-sub_region: ~
+sub_region: Solomon Islands
 status: "Good — pristine reefs, WWII wrecks, genuinely uncrowded"
 tier: 2
 coral_rating: "Excellent"

@@ -1,7 +1,7 @@
 ---
 destination: Tonga
 region: Pacific
-sub_region: ~
+sub_region: Tonga
 status: "World-class for humpback whale encounters (Jul-Oct); reef diving secondary"
 tier: 3
 coral_rating: "Moderate (recovering)"

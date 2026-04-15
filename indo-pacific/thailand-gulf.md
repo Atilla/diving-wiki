@@ -10,6 +10,7 @@ best_season: Jan-Apr
 peak_months: [Jan, Feb, Mar, Apr]
 access: Fly Koh Samui + ferry
 liveaboard: false
+liveaboard_season: ~
 water_temp_range: 27-30C
 visibility_range: "5-15m typical; 15-25m (Jan-Apr)"
 experience_level: Open Water (training destination); pinnacles suit experienced divers

@@ -10,6 +10,7 @@ best_season: Mar-Jun
 peak_months: [Mar, Apr, May]
 access: Fly CZM direct or CUN + ferry
 liveaboard: false
+liveaboard_season: ~
 water_temp_range: "25-30C"
 visibility_range: "24-40m"
 experience_level: "Open Water (most sites); Advanced (Punta Sur, cenote caves)"

@@ -1,7 +1,7 @@
 ---
 destination: French Polynesia (Tuamotus)
 region: Pacific
-sub_region: Fakarava, Rangiroa
+sub_region: French Polynesia
 status: "Good — UNESCO-protected atolls with world-class shark aggregations"
 tier: 1
 coral_rating: "Good (UNESCO-protected)"
