@@ -145,7 +145,7 @@ When incorporating new information, follow the workflow for the relevant source 
 1. Extract: date, destination, coral observations, marine life encounters, conditions, operator info
 2. Compare against existing file content — note agreements and contradictions
 3. Update relevant sections (Status, Marine Life, Dive Conditions, Practical Info)
-4. Add entry to `## Trip Reports` with date and source type attribution
+4. Add entry to `## Trip Reports` with a date and a one-line observation summary. No source names or origin labels — just what was seen and when.
 
 ### Scientific / monitoring data (NOAA Coral Reef Watch, GCRMN, peer-reviewed studies)
 
@@ -171,7 +171,7 @@ When incorporating new information, follow the workflow for the relevant source 
 When new information contradicts existing content:
 
 1. **Do not silently overwrite.** Add the new information alongside the old with dates.
-2. **Clear winner:** If the new info is clearly more recent and from a credible source, update the main claim and note the change (e.g., "Previously rated X; as of [date], now Y based on [source]").
+2. **Clear winner:** If the new info is clearly more recent and credible, update the main claim and note the change with a date (e.g., "Previously rated X; as of [date], now Y").
 3. **Ambiguous:** If the contradiction can't be resolved (e.g., one trip report says coral recovering, another says still degraded), present both observations with dates and let the reader judge.
 4. **Safety override:** Geopolitical and safety information always takes precedence immediately — don't wait for corroboration.
 
@@ -182,7 +182,7 @@ This wiki uses a lightweight approach to confidence tracking:
 - **`last_verified`** in frontmatter is the primary currency signal. Files older than 6 months should be flagged for review.
 - **`## Trip Reports`** serves as the evidence trail — each entry must include a date and source type.
 - **Hedging language** for uncertain claims: use "reportedly", "operators claim", "a single 2025 report suggests", "unconfirmed but" when a claim rests on a single source or is otherwise uncertain.
-- **No per-claim footnote citations.** The Trip Reports section and `_meta/sources.md` provide provenance. Inline footnotes would add clutter without proportionate benefit for this wiki's size and purpose.
+- **No source attribution in destination files.** Do not name sources, publications, organisations, or language communities anywhere in destination file prose or Trip Report entries — not inline ("per IFRECOR…"), not as trailing notes ("Source: SUBAQUA"), not as origin labels ("French monitoring data", "German dive press"). The git log records which ingest pass introduced a change; `_meta/sources.md` records the bibliography. That is sufficient. Destination files contain only facts, observations, and hedged claims — never the name of what they came from.
 
 ## 9. Maintenance Checks
 
