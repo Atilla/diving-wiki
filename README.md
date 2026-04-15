@@ -9,6 +9,10 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 > **[Ranking Table](_meta/ranking-table.md)** — Every destination ranked Tier 1 (go now) through Tier 5 (expedition only), with coral condition, marine life, season, and access at a glance.
 >
 > **[15 Strategic Takeaways](_meta/strategic-takeaways.md)** — The cross-cutting insights: which strategies are bleaching-proof, which basins are worst-hit, where the next frontier is, and what to book before it's too late.
+>
+> **[Seasonal Calendar](_meta/seasonal-calendar.md)** — Month-by-month: what's at peak, where, and why.
+>
+> **[Megafauna Encounter Matrix](_meta/megafauna-matrix.md)** — Where to reliably encounter mantas, whale sharks, hammerheads, tigers, and more — with current reliability ratings.
 
 **Near-term risk:** NOAA forecasts 72-80% probability of El Nino by late 2026, which could trigger another severe bleaching wave on reefs with minimal recovery time.
 
@@ -112,6 +116,6 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 
 Each destination file contains YAML frontmatter (status, tier, coral rating, season, access) and standardised sections: Status, Key Dive Sites, Marine Life, Dive Conditions, Season, Practical Info, Conservation, Trip Reports, Related Destinations.
 
-Cross-cutting content lives in `_meta/`: [Ranking Table](_meta/ranking-table.md), [Strategic Takeaways](_meta/strategic-takeaways.md), [Sources](_meta/sources.md), [Template](_meta/template.md).
+Cross-cutting content lives in `_meta/`: [Ranking Table](_meta/ranking-table.md), [Strategic Takeaways](_meta/strategic-takeaways.md), [Seasonal Calendar](_meta/seasonal-calendar.md), [Megafauna Matrix](_meta/megafauna-matrix.md), [Sources](_meta/sources.md), [Template](_meta/template.md).
 
 **Updating:** See [CLAUDE.md](CLAUDE.md) for the wiki maintenance guide. Short version: edit the destination file, update `last_verified`, sync `_meta/ranking-table.md` if tier/status changed.

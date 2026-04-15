@@ -33,6 +33,8 @@ diving-wiki/
 │   ├── template.md           ← YAML frontmatter + section template
 │   ├── ranking-table.md      ← tier 1-5 master ranking
 │   ├── strategic-takeaways.md← 15 cross-cutting insights
+│   ├── seasonal-calendar.md  ← month-by-month planning matrix
+│   ├── megafauna-matrix.md   ← species encounter reliability by destination
 │   ├── sources.md            ← bibliography
 ├── red-sea/                  ← region folders
 ├── indo-pacific/
@@ -87,6 +89,7 @@ Every destination file begins with YAML frontmatter. Fields:
 | `last_verified` | string | YYYY-MM | When this file's content was last checked against current sources |
 | `bleaching_resilience` | enum | low, moderate, high | Use `~` if not applicable or unknown |
 | `highlights` | list | 3 items typical | Key selling points |
+| `dive_styles` | list | walls, drift, muck, wrecks, pelagic, caves, shore | 2-4 tags per destination; only when that style is a genuine draw |
 
 **Null values:** Use `~` (YAML null) when data is unavailable, not applicable, or the destination is inaccessible.
 
