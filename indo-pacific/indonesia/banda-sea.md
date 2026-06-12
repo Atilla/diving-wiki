@@ -6,15 +6,15 @@ status: "EXCELLENT"
 tier: 1
 coral_rating: "Excellent"
 marine_life_rating: "Excellent"
-best_season: Sep-Nov only
+best_season: "Sep-Nov (primary), Mar-Apr (secondary)"
 peak_months: [Oct, Nov]
 access: Fly Ambon
 liveaboard: true
-liveaboard_season: Late Sep through mid-Nov only
+liveaboard_season: "Late Sep-mid Nov and Mar-Apr crossing windows"
 water_temp_range: "27-29C surface (20-22C at depth from upwelling)"
 visibility_range: "20-35m (occasionally 40m+)"
 experience_level: Advanced, 100+ logged dives
-last_verified: 2026-04
+last_verified: 2026-06
 bleaching_resilience: high
 highlights:
   - Expedition-grade pristine diving
@@ -30,7 +30,7 @@ dive_styles: [walls, drift, pelagic]
 **EXCELLENT**
 
 - Remote, deep-water environment with cold upwelling. No specific mass bleaching reports from 2024.
-- One of Indonesia's most pristine dive regions. Season: September-November only.
+- One of Indonesia's most pristine dive regions. Two seasonal windows: September–November (primary) and March–April (secondary), aligned with the twice-yearly liveaboard crossings between Komodo and Raja Ampat.
 - A semi-enclosed sea reaching over 7,000m depth, with cold nutrient-rich upwelling that supports unusual biomass for a tropical region. Expedition-grade diving accessed by liveaboard.
 
 ## Key Dive Sites
@@ -47,13 +47,17 @@ Pristine hard coral reefs on steep slopes, strong currents attracting schooling 
 
 The primary hammerhead aggregation site. Submerged seamount/ridge where scalloped hammerheads school in early morning at depth (30m+). Reliability moderate — depends on current, moon phase, and luck, but during peak season (Oct–Nov) success rates are reasonable across multi-day itineraries.
 
+#### Serua Island
+
+Volcanic island in the central Banda Sea, regularly named alongside Suanggi and Nil Desperandum as a hammerhead aggregation point. Steep walls and current-swept slopes; included on most crossing itineraries between Banda Neira and the Forgotten Islands.
+
 #### Manuk Island (Volcano Island)
 
 Uninhabited active volcanic island famous for an extraordinarily dense population of banded sea snakes (*Laticauda colubrina*). Divers regularly report dozens to hundreds of snakes on a single dive. Arguably the world's premier sea snake dive. Steep volcanic walls with healthy soft coral.
 
 #### Nil Desperandum
 
-Remote, rarely visited seamount in open Banda Sea waters. Strong currents bring grey reef sharks, silvertips, dogtooth tuna, schools of barracuda. Advanced drift diving.
+Remote, rarely visited submerged atoll in open Banda Sea waters. Strong currents bring grey reef sharks, silvertips, dogtooth tuna, schools of barracuda — and it is one of the more consistent hammerhead aggregation sites alongside Suanggi and Serua. Advanced drift diving.
 
 #### Koon Island
 
@@ -65,7 +69,7 @@ Extended itineraries push south toward these remote atolls. Pristine, rarely div
 
 ## Marine Life
 
-- **Hammerhead sharks**: Scalloped hammerheads at Suanggi and nearby seamounts, primarily Oct–Nov. Schools of 10–50+ in good conditions.
+- **Hammerhead sharks**: Scalloped hammerheads at Suanggi, Serua, Nil Desperandum, and nearby seamounts, primarily Oct–Nov. Schools of 10–50+ in good conditions. Operators consistently report that colder upwelling water correlates with larger aggregations. A secondary window exists in March–April, but schools are reportedly smaller and less predictable than during the Oct–Nov peak.
 - **Sea snakes**: Manuk Island, year-round but reliably present during dive season. Hundreds of banded sea snakes.
 - **Reef sharks**: Grey reef, whitetip reef, and occasional silvertips common across most sites.
 - **Pelagics**: Dogtooth tuna, giant trevally, schools of barracuda and jacks, occasional oceanic whitetip sharks.
@@ -81,13 +85,16 @@ Extended itineraries push south toward these remote atolls. Pristine, rarely div
 
 ## Season
 
-- **Window**: Late September through mid-November only — the inter-monsoon transition. Outside this window, strong monsoon winds produce rough seas that make the long open-water transits unsafe. October is generally the peak month, balancing calm conditions with peak pelagic activity. September is included for general access but hammerhead encounters at Suanggi peak October–November.
+- **Why diving here happens twice a year**: Most of Indonesia's liveaboard fleet repositions seasonally between Komodo (roughly May–September) and Raja Ampat (roughly October–April). The boats cross the Banda Sea during the inter-monsoon lulls — **September–November** (Komodo → Raja Ampat) and **March–April** (Raja Ampat → Komodo) — and sell these repositioning runs as one-way "Banda Sea crossing" or "transition" itineraries. Outside these two windows, monsoon winds produce rough seas that make the long open-water transits unsafe, and essentially no boats operate here.
+- **Primary window (late Sep – mid Nov)**: The main event. October is generally the peak month, balancing calm conditions with peak pelagic activity. Hammerhead encounters peak October–November, when seasonal upwelling is strongest — colder water reportedly draws larger schools.
+- **Secondary window (Mar–Apr)**: A genuine but lesser-known option. Conditions are workable and the same crossing routes run in reverse. Hammerheads are present but schools are reportedly smaller and less predictable than in Oct–Nov. Easier to book on shorter notice.
 
 ## Practical Info
 
-- **Operators**: Limited number of boats run Banda Sea itineraries. SY Seahorse (Siren Fleet), MSY Damai, KLM Samambaia, Dewi Nusantara, Aurora/Arenui. **Slots book 12–18 months in advance** for peak October departures.
-- **Trip length**: 10–14 nights (10–11 common). Some extended routes (14 nights) incorporate Forgotten Islands.
-- **Departure port**: Almost always Ambon (Maluku). Fly to Ambon (AMQ) via Jakarta or Makassar. Domestic connections can be unreliable — build in buffer days.
+- **Operators**: Limited number of boats run Banda Sea itineraries. SY Seahorse (Siren Fleet), MSY Damai, KLM Samambaia, Dewi Nusantara, Aurora/Arenui, Solitude Adventurer, Emperor Harmoni, White/Blue Manta Explorer. **Slots book 12–18 months in advance** for peak October departures; March–April crossings typically need only 3–6 months lead time.
+- **Crossing itineraries**: Most trips are one-way repositioning routes. Common legs: Maumere or Alor ↔ Ambon (10–12 nights, via the central Banda Sea island arc), Ambon ↔ Sorong (adding Raja Ampat or Misool at one end), and Saumlaki (Tanimbar) ↔ Ambon for Forgotten Islands routes. Some operators sell the full Komodo → Raja Ampat run as two joinable legs. Exact routing varies with weather and direction of travel.
+- **Trip length**: 10–14 nights (10–11 common). Some extended routes (14 nights) incorporate Forgotten Islands; full Komodo–Raja Ampat crossings can run longer.
+- **Departure ports**: Vary by route and direction — Ambon (most common), Maumere (Flores), Sorong (West Papua), or Saumlaki (Tanimbar). Fly to Ambon (AMQ) via Jakarta or Makassar. Domestic connections can be unreliable — build in buffer days.
 - **Recompression chamber**: Nearest in Ambon (military hospital) and Makassar. Conservative dive profiles essential.
 
 ## Conservation
@@ -100,7 +107,8 @@ Extended itineraries push south toward these remote atolls. Pristine, rarely div
 
 ## Related Destinations
 
-- [Raja Ampat](raja-ampat.md) — combine on extended Indonesia expeditions
+- [Raja Ampat](raja-ampat.md) — eastern terminus of the twice-yearly crossing itineraries; combine on extended expeditions
+- [Komodo](komodo.md) — western terminus of the crossing; the fleet repositions between the two via the Banda Sea
 - [Alor](alor.md) — common transit route to/from Banda Sea
 - [Halmahera](halmahera.md) — northern Maluku frontier alternative
 - [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) — remote Indonesia alternative with different focus

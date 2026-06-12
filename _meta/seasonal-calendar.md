@@ -63,6 +63,7 @@ Destinations marked with **bold** are at absolute peak that month.
 | Northern Egypt | Red Sea | Strong season continues |
 | Halmahera | Indo-Pacific | Last whale shark month; transition season |
 | Ishigaki / Yonaguni | Indo-Pacific | Yonaguni hammerheads (mid-Jan to mid-Mar, last weeks) |
+| Banda Sea | Indo-Pacific | Secondary crossing window opens (Mar-Apr); hammerheads possible but less reliable than Oct-Nov |
 
 ## April
 
@@ -84,6 +85,7 @@ Destinations marked with **bold** are at absolute peak that month.
 | Seychelles | Indian Ocean | Inter-monsoon window continues |
 | Derawan / Kakaban | Indo-Pacific | Season opens (Apr-Oct) |
 | Northern Egypt | Red Sea | Comfortable water; good conditions |
+| Banda Sea | Indo-Pacific | Last month of secondary crossing window (Raja Ampat → Komodo repositioning) |
 
 ## May
 

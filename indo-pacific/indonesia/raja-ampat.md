@@ -164,6 +164,6 @@ dive_styles: [walls, drift, pelagic]
 
 - [Komodo](komodo.md) — combine on a single Indonesia trip; upwelling-protected
 - [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) — nearby; near-guaranteed whale sharks
-- [Banda Sea](banda-sea.md) — common transit route extension
+- [Banda Sea](banda-sea.md) — twice-yearly crossing itineraries (Sep–Nov and Mar–Apr) as the liveaboard fleet repositions between Raja Ampat and Komodo
 - [Wakatobi](wakatobi.md) — premium coral alternative within Indonesia
 - [Halmahera](halmahera.md) — adjacent frontier Coral Triangle region

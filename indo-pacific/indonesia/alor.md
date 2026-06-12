@@ -10,11 +10,11 @@ best_season: "Sep-Nov (liveaboard); Mar-Dec (land)"
 peak_months: [Sep, Oct, Nov]
 access: Fly Kupang + connecting flight
 liveaboard: true
-liveaboard_season: Sep-Nov (transit route to Banda Sea)
+liveaboard_season: "Sep-Nov and Mar-Apr (Banda Sea crossing windows)"
 water_temp_range: "26-29C surface (22-24C at depth)"
 visibility_range: "15-30m"
 experience_level: Intermediate to advanced
-last_verified: 2026-04
+last_verified: 2026-06
 bleaching_resilience: moderate
 highlights:
   - Muck diving rivals Lembeh
@@ -60,7 +60,7 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 
 ## Season
 
-- **Liveaboard season:** Sep–Nov (inter-monsoon window, same as Banda Sea). Land-based diving possible roughly Mar–Dec.
+- **Liveaboard season:** Sep–Nov (inter-monsoon window, same as Banda Sea), plus a secondary Mar–Apr window when boats cross back from Raja Ampat toward Komodo. Land-based diving possible roughly Mar–Dec.
 - **Temperature:** 26–29C surface; cold thermoclines from Pantar Strait upwelling possible (22–24C at depth).
 - **Hammerheads:** seasonal at Pantar Strait pinnacles — most likely during cooler upwelling months (Sep–Nov), but not reliable enough to guarantee. Moon phase and current strength affect encounters.
 - **Mobula rays:** reported during liveaboard season (Sep–Nov), coinciding with plankton-rich upwelling.
@@ -69,7 +69,7 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 
 ## Practical Info
 
-- **Liveaboard operators**: Indo Siren, Adelaar, Katharina, Aurora run Alor routes, typically as part of longer Lesser Sunda crossings (Maumere–Alor) or Alor–Banda Sea transitional routes. Season roughly September–November.
+- **Liveaboard operators**: Indo Siren, Adelaar, Katharina, Aurora run Alor routes, typically as part of longer Lesser Sunda crossings (Maumere–Alor) or Alor–Banda Sea transitional routes. Primary season September–November; a reverse crossing window runs March–April as the fleet repositions from Raja Ampat back toward Komodo.
 - **Land-based**: A handful of small resorts (e.g., Alor Divers) but options are limited. Getting to Alor requires flying to Kupang (West Timor) then a connecting flight on Wings Air.
 
 ## Trip Reports

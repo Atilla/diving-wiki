@@ -40,6 +40,9 @@ This report synthesizes data from the following categories. Individual destinati
 - Dive operator field reports
 - Mongabay — environmental journalism
 - Various diving publications and magazines
+- **ZuBlu** (zubludiving.com) — dive travel agency guides. Key article: "Everything you need to know about the Banda crossing" — twice-yearly liveaboard repositioning windows (Mar–Apr and Sep–Oct), Maumere–Ambon crossing routes.
+- **Coralbound** (coralbound.com) — dive travel guides. Key article: hammerheads in Indonesia (Jan 2026) — Suanggi/Serua/Nil Desperandum aggregation sites, Oct–Nov primary vs Mar–Apr secondary window, upwelling–school size correlation, booking lead times.
+- **Scuba Travel** (scubatravel.com), **Coralia Liveaboard**, **Solitude World**, **Adelaar Cruises** — operator itinerary pages confirming Banda Sea crossing windows, embarkation ports (Ambon, Maumere, Sorong, Saumlaki), and vessel lists (2025–2026).
 
 ### World Adventure Divers (worldadventuredivers.com)
 
